@@ -1,0 +1,4710 @@
+[{
+        "weight": "0.01",
+        "id": 21275,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Тестировщик ПО",
+        "url": "//netology.ru/programs/qa",
+        "duration": "7 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "//netology.ru/program/qa.png",
+        "color": "#B7CDF8",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 789,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 57900,
+        "current_price": 46740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/789/Mask_Group-13-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Станьте IT-специалистом, отвечающим за качество готового технологического продукта. Освойте ручное и автоматизированное тестирование и получите шанс присоединиться к команде тестирования Альфа-Банка.</p>\r\n"
+    },
+    {
+        "weight": "0.02",
+        "id": 21295,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Инженер по тестированию: с нуля до middle",
+        "url": "//netology.ru/programs/qa-middle",
+        "duration": "14 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "",
+        "color": "#B7CDF8",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1756,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1756/Mask_Group.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Станьте IT-специалистом, отвечающим за качество готового технологического продукта. Освойте ручное и автоматизированное тестирование и получите шанс присоединиться к команде тестирования Альфа-Банка.</p>\r\n"
+    },
+    {
+        "weight": "0.03",
+        "id": 19667,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Java-разработчик с нуля",
+        "url": "//netology.ru/programs/java-developer",
+        "duration": "11 месяцев",
+        "projects_amount": "31 занятие",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "//netology.ru/program/java-developer.png",
+        "color": "#F6BD94",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1131,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1131/java-developer.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Научитесь программировать с нуля и получите возможность пройти собеседование в Альфа-Банке. Во время обучения вы будете работать с реальными прикладными задачами: от разработки простого калькулятора до создания облачного хранилища. Вы научитесь думать, как программист, искать информацию и креативно подходить к&nbsp;решению проблем.&nbsp;</p>\r\n"
+    },
+    {
+        "id": 19718,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 2 дня",
+        "name": "Python-разработчик с нуля",
+        "url": "//netology.ru/programs/python",
+        "duration": "8 месяцев",
+        "projects_amount": "26 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "15 июня",
+        "date": "2021-06-15",
+        "program_image": "//netology.ru/program/python.png",
+        "color": "#89B0D4",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 376,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 69900,
+        "current_price": 56940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/376/%D0%BF%D0%B0%D0%B8%CC%86%D1%82%D0%BE%D0%BD.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Став Python-разработчиком, вы делаете первый шаг в создании&nbsp;современных веб-приложений, без которых не обходится ни один современный проект. К тому же, получив опыт программирования&nbsp;на Python, вы сможете начать работать с большими данными и алгоритмами машинного обучения.</p>\r\n"
+    },
+    {
+        "id": 21148,
+        "type": "online",
+        "program_type": "course",
+        "label": "Осталось 22 дня",
+        "name": "Разработка мобильных приложений с нуля",
+        "url": "//netology.ru/programs/android-free",
+        "duration": "2 недели",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 5 июля",
+        "date": "2021-07-05",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1761,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1761/Rectangle_3950.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": ""
+    },
+    {
+        "id": 21799,
+        "type": "online",
+        "program_type": "course",
+        "label": "Асинхрон",
+        "name": "Digital-старт: первый шаг к востребованной профессии",
+        "url": "//netology.ru/programs/digital-padavan",
+        "duration": "",
+        "projects_amount": "14 занятий",
+        "experts_amount": "1 эксперт",
+        "program_image": "//netology.ru/program/digital-padavan.png",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [{
+                "id": 88,
+                "name": "Бесплатно",
+                "alias": "free",
+                "show": true
+            },
+            {
+                "id": 118,
+                "name": "Для начинающих",
+                "alias": "for-beginner",
+                "show": true
+            }
+        ],
+        "navigational_tag_ids": [],
+        "program_family_id": 244,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/244/digital-%D1%81%D1%82%D0%B0%D1%80%D1%82-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "other",
+            "name": "Прочее"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Обзор профессий мира digital. С чего начать свой путь в digital, как выбрать ту специализацию, которая подойдет именно вам. Как представлять себя и свои умения заказчику, грамотно вести деловые переговоры и переписку, эффективно организовывать работу над проектом.&nbsp;Особенности работы на фрилансе и удалённо. Возможные направления развития в digital.</p>\r\n"
+    },
+    {
+        "id": 21351,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 24 дня",
+        "name": "1С-программист",
+        "url": "//netology.ru/programs/developer1c",
+        "duration": "7 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 7 июля",
+        "date": "2021-07-07",
+        "program_image": "",
+        "color": "#FFDE88",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1059,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 69900,
+        "current_price": 56940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1059/1%D1%81.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Научитесь разворачивать и настраивать 1С для решения кадровых, бухгалтерских задач и задач бизнеса. За полгода вы станете уверенным и востребованным на рынке junior-разработчиком. После обучения сможете показать, что работали над реальными проектами.</p>\r\n"
+    },
+    {
+        "id": 21376,
+        "type": "online",
+        "program_type": "specialization",
+        "label": "Осталось 25 дней",
+        "name": "DevOps-инженер",
+        "url": "//netology.ru/programs/devops",
+        "duration": "11 месяцев",
+        "projects_amount": "23 занятия",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 8 июля",
+        "date": "2021-07-08",
+        "program_image": "",
+        "color": "#F6BD94",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1209,
+        "program_type_id": 4,
+        "program_type_alias": "specialization",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 70740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1209/devops.png"
+        },
+        "educational_level": {
+            "id": 2,
+            "name": "Про",
+            "slug": "pro"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>- Освойте одну из самых востребованных IT-профессий<br />\r\n- Научитесь программировать на популярном языке Python<br />\r\n- Научитесь работать с современными инструментами DevOps<br />\r\n- Овладейте лучшими практиками работы DevOps-инженеров<br />\r\n- На практике отстроите процесс DevOps с помощью облачных сервисов</p>\r\n"
+    },
+    {
+        "id": 21348,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 15 дней",
+        "name": "Системный администратор",
+        "url": "//netology.ru/programs/sysadmin",
+        "duration": "12 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "28 июня",
+        "date": "2021-06-28",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1562,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 58950,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1562/Mask_Group-min__1_.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 21014,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 2 дня",
+        "name": "Fullstack-разработчик на Python",
+        "url": "//netology.ru/programs/fullstack-python-dev",
+        "duration": "18 месяцев",
+        "projects_amount": "26 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "15 июня",
+        "date": "2021-06-15",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1891,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 112900,
+        "current_price": 89940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1891/Group_754.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 19849,
+        "type": "online",
+        "program_type": null,
+        "label": "Осталось 29 дней",
+        "name": "Python-разработка для начинающих",
+        "url": "//netology.ru/programs/python-free",
+        "duration": "2 недели",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "12 июля",
+        "date": "2021-07-12",
+        "program_image": "",
+        "color": "#FEA1A5",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1577,
+        "program_type_id": null,
+        "program_type_alias": null,
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1577/Mask_Group6.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>На данном курсе вы освоите логику и синтаксис Python, изучите базовые конструкции языка, научитесь работать с данными и уже на первом занятии напишете свою первую программу. С нуля создадите ToDo-приложение и разработаете чатбота для Telegram.</p>\r\n"
+    },
+    {
+        "id": 19688,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 8 дней",
+        "name": "Веб-разработчик с нуля",
+        "url": "//netology.ru/programs/web-developer",
+        "duration": "18 месяцев",
+        "projects_amount": "23 занятия",
+        "experts_amount": "0 экспертов",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "//netology.ru/program/web-developer.png",
+        "color": "#b0c5ee",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 366,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 112900,
+        "current_price": 89940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/366/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Пройдите курс по веб-разработке, если вы хотите войти в IT, но не умеете программировать ни на одном языке и даже не знаете, с чего начать. Программа с постепенным нарастанием уровня сложности разработана для тех, кто не писал ни строчки кода и никогда не верстал. Вы изучите модули по фронтенду, в которые входят: вёрстка HTML, JavaScript, Git, GitHub, а также основы бэкенда &mdash; основы PHP. По завершении курса с базовыми навыками вы сможете начать работу junior-разработчиком в небольшой компании и выбрать дальнейшую специализацию.</p>\r\n"
+    },
+    {
+        "id": 19761,
+        "type": "online",
+        "program_type": "course",
+        "label": "Осталось 8 дней",
+        "name": "Основы верстки сайта",
+        "url": "//netology.ru/programs/html-css-base",
+        "duration": "2 недели",
+        "projects_amount": "11 занятий",
+        "experts_amount": "3 эксперта",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "//netology.ru/program/html-css-base.png",
+        "color": "#AADC8C",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 385,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/385/%D0%B2%D0%B8%D1%82%D1%80%D0%B8%D0%BD%D0%B0.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>После этого курса вы сможете легко внести правки в HTML-страницу, подправить оформление страницы, написав несколько свойств CSS, а также хорошо будете понимать, как устроен интернет и какие специалисты работают над отдельными частями веб-проекта.</p>\r\n"
+    },
+    {
+        "id": 19844,
+        "type": "online",
+        "program_type": "course",
+        "label": "Осталось 2 дня",
+        "name": "Как стать программистом",
+        "url": "//netology.ru/programs/kak-stat-programmistom",
+        "duration": "3 дня",
+        "projects_amount": "6 занятий",
+        "experts_amount": "1 эксперт",
+        "starts_at": "15 июня",
+        "date": "2021-06-15",
+        "program_image": "//netology.ru/program/kak-stat-programmistom.png",
+        "color": "#fff",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 869,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/869/%D0%BA%D0%B0%D0%BA_%D1%81%D1%82%D0%B0%D1%82%D1%8C_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%BC-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "show_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>После этого курса вы поймёте, что представляет собой профессия программиста, и решите, подходит ли она именно вам. Также вы узнаете про востребованные сегодня сферы разработки и получите полезные советы о том, с чего лучше начинать новичку, чтобы успешно развиваться в профессии.</p>\r\n"
+    },
+    {
+        "id": 21453,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "",
+        "name": "Как стать Java-разработчиком с нуля",
+        "url": "//netology.ru/free-lessons/kak-stat-java-razrabotchikom-s-nulya",
+        "duration": "0 дней",
+        "projects_amount": "1 занятие",
+        "experts_amount": "1 эксперт",
+        "starts_at": "27 июля",
+        "date": "2021-07-27",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1414,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": ""
+    },
+    {
+        "id": 21363,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 24 дня",
+        "name": "Специалист по информационной безопасности с нуля",
+        "url": "//netology.ru/programs/informationsecurity",
+        "duration": "12 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 7 июля",
+        "date": "2021-07-07",
+        "program_image": "",
+        "color": "#fff",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1248,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1248/Mask_Group-1-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 19670,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Android-разработчик с нуля",
+        "url": "//netology.ru/programs/android-app",
+        "duration": "9 месяцев",
+        "projects_amount": "31 занятие",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "//netology.ru/program/android-app.png",
+        "color": "#AADC8C",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 549,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 70740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/549/android-app3.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Вы с нуля освоите программирование на Java и Kotlin и разработку под Android&nbsp;и самостоятельно разработаете многоэкранное приложение с локализацией на двух языках.</p>\r\n"
+    },
+    {
+        "id": 19684,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Уже идет",
+        "name": "Frontend-разработчик с нуля",
+        "url": "//netology.ru/programs/front-end",
+        "duration": "12 месяцев",
+        "projects_amount": "32 занятия",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 8 июня",
+        "date": "2021-06-08",
+        "program_image": "//netology.ru/program/front-end.png",
+        "color": "#F7E2D3",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 365,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/365/Mask_Group-18-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Освойте одну из самых востребованных профессий на сегодняшний день. Добавьте в свой арсенал три самые популярные технологии:&nbsp;HTML, CSS и JavaScript и создавайте&nbsp;сайты и интерактивные веб-приложения, доступные на большинстве платформ.</p>\r\n"
+    },
+    {
+        "id": 21171,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 29 дней",
+        "name": "iOS-разработчик с нуля",
+        "url": "//netology.ru/programs/ios-developer",
+        "duration": "9 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "12 июля",
+        "date": "2021-07-12",
+        "program_image": "//netology.ru/program/ios-developer.png",
+        "color": "#FDDACB",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 871,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 70740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/871/Mask_Group-16-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Вы узнаете, как создавать адаптивный интерфейс приложения и работать с анимацией, использовать многопоточность, обрабатывать данные из сети. Научитесь добавлять в приложения уведомления, геолокацию, карты, осуществлять аутентификацию пользователя при помощи логина и пароля или при помощи TouchID и FaceID. В процессе обучения вы напишете собственную социальную сеть.</p>\r\n"
+    },
+    {
+        "id": 19960,
+        "type": "online",
+        "program_type": "course",
+        "label": "Осталось 4 дня",
+        "name": "SQL и получение данных",
+        "url": "//netology.ru/programs/sql-lessons",
+        "duration": "6 недель",
+        "projects_amount": "21 занятие",
+        "experts_amount": "5 экспертов",
+        "starts_at": "17 июня",
+        "date": "2021-06-17",
+        "program_image": "//netology.ru/program/sql-lessons.png",
+        "color": "#7EC9E4",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 643,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": false,
+        "initial_price": 28900,
+        "current_price": 20230,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/643/sql-lessons.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "data-science",
+            "name": "Аналитика"
+        },
+        "show_direction": {
+            "slug": "data-science",
+            "name": "Аналитика"
+        },
+        "directions": [{
+                "slug": "data-science",
+                "name": "Аналитика"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>SQL &mdash; главный инструмент аналитика. Научитесь с помощью SQL получать данные из БД, фильтровать, агрегировать, а также импортировать и экспортировать их.</p>\r\n"
+    },
+    {
+        "id": 20286,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 8 дней",
+        "name": "Fullstack-разработчик на JavaScript",
+        "url": "//netology.ru/programs/javascript-fullstack",
+        "duration": "19 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1978,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 149900,
+        "current_price": 89940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1978/javascript-fullstack.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 21454,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Осталось 25 дней",
+        "name": "Разработка мобильных приложений на IOS и Android: с чего начать?",
+        "url": "//netology.ru/free-lessons/kak-sozdat-mobilnoe-prilozhenie-i-zarabotat-na-nem",
+        "duration": "0 дней",
+        "projects_amount": "1 занятие",
+        "experts_amount": "1 эксперт",
+        "starts_at": " 7 июля",
+        "date": "2021-07-07",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1016,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Что минимально необходимо, чтобы создать приложение? Какое приложение проще разработать и быстрее монетизировать? Каких навыков будет достаточно, чтобы разработать свое первое приложение?\r\n"
+    },
+    {
+        "id": 16809,
+        "type": "online",
+        "program_type": "course",
+        "label": "Асинхрон",
+        "name": "Школа фриланса",
+        "url": "//netology.ru/programs/freelance-school",
+        "duration": "",
+        "projects_amount": "5 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "//netology.ru/program/freelance-school.png",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "https://l.netology.ru/freelance-school",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 811,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/811/freelance-school.png"
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "marketing",
+                "name": "Маркетинг"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": ""
+    },
+    {
+        "id": 20337,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 8 дней",
+        "name": "Bitrix-разработчик",
+        "url": "//netology.ru/programs/bitrix",
+        "duration": "9 месяцев",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1987,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 117900,
+        "current_price": 58950,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1987/bitrix.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 20721,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 12 дней",
+        "name": "Разработчик игр на Unity",
+        "url": "//netology.ru/programs/unity-developer",
+        "duration": "9 месяцев",
+        "projects_amount": "9 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "25 июня",
+        "date": "2021-06-25",
+        "program_image": "",
+        "color": "#fff",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1452,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 119900,
+        "current_price": 59950,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1452/Mask_Group.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "show_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "directions": [{
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 19663,
+        "type": "online",
+        "program_type": "specialization",
+        "label": "Уже идет",
+        "name": "Backend Node.js-разработчик",
+        "url": "//netology.ru/programs/nodejs",
+        "duration": "4 месяца",
+        "projects_amount": "28 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 7 июня",
+        "date": "2021-06-07",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1584,
+        "program_type_id": 4,
+        "program_type_alias": "specialization",
+        "is_async": false,
+        "initial_price": 25000,
+        "current_price": 24750,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1584/Mask_Group-min.png"
+        },
+        "educational_level": {
+            "id": 2,
+            "name": "Про",
+            "slug": "pro"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "id": 20126,
+        "type": "offline",
+        "program_type": "course",
+        "label": "Осталось 17 дней",
+        "name": "React: Библиотека №1 в современной фронтенд-разработке",
+        "url": "//netology.ru/programs/react",
+        "duration": "2 месяца",
+        "projects_amount": "17 занятий",
+        "experts_amount": "13 экспертов",
+        "starts_at": "30 июня",
+        "date": "2021-06-30",
+        "program_image": "//netology.ru/program/react.png",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 381,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": false,
+        "initial_price": 15900,
+        "current_price": 14630,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/381/react.png"
+        },
+        "educational_level": {
+            "id": 2,
+            "name": "Про",
+            "slug": "pro"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Современные интерфейсы имеют огромное количество взаимосвязанных компонентов, которые обновляются на лету. Поэтому их реализацию&nbsp;разбивают на&nbsp;отдельные блоки, отвечающие за отображение, управление и взаимодействие с сервером. Библиотека React как раз полностью закрывает блок отображения, предоставляя нам виртуальный браузер.</p>\r\n"
+    },
+    {
+        "id": 1027,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Бесконфликтное увольнение персонала",
+        "url": "//netology.ru/courses/beskonfliktnoe-uvolnenie-personala",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 11,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Многие компании гордятся дружным коллективом. Однако порой возникает необходимость расстаться с одним из сотрудников. В такой момент руководители зачастую сталкиваются с проблемой: как остаться в хороших отношениях с уходящим коллегой и не демотивировать команду новостью об увольнении?</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Этот курс будет полезен топ-менеджерам, руководителям компаний и HR-специалистам, которые хотят </span><span style=\"font-family:arial; font-size:14.6666666666667px\">избежать ошибок при увольнении сотрудников.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Инга Орлова расскажет, как выстроить беседу с увольняемым, помочь ему с дальнейшим трудоустройством и сообщить новость коллективу. Вы узнаете, как правильно хвалить и критиковать при увольнении, и научитесь проводить выходное интервью.</span></p>\r\n"
+    },
+    {
+        "id": 972,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Основы деловой переписки",
+        "url": "//netology.ru/courses/delovaya-perepiska",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 22,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Большие потоки информации, с которыми работают современные компании, диктуют требование вести все важные коммуникации письменно. Однако невозможность видеть собеседника и мгновенно реагировать на его вопросы влияет на эффективность диалога. В неумело составленном письме легко теряется суть, из-за чего возникает недопонимание со стороны адресата. А неправильно выстроенная аргументация при решении конфликта способна окончательно испортить отношения.<br />\r\n<br />\r\nКурс предназначен специалистам, руководителям отделов и топ-менеджерам, желающим улучшить качество делового контакта посредством переписки.<br />\r\n<br />\r\nНа курсе вы научитесь корректно составлять и оформлять письма, выходить из сложных&nbsp;ситуаций без ущерба имиджу компании, а также познакомитесь с правилами современного делового этикета и стандартами международной деловой переписки.</p>\r\n"
+    },
+    {
+        "id": 609,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "На шаг впереди: анализ конкурентов и мониторинг сайтов",
+        "url": "//netology.ru/courses/konkurentny-analiz-v-internet-srede",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 69,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "marketing",
+            "name": "Маркетинг"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Анализ конкурентной среды &mdash; одна из основ планирования любого проекта. Многие начинающие интернет-проекты недооценивают конкурентный анализ &mdash; одни пренебрегают им, другие просто не знают, как провести его верным способом.</p>\r\n\r\n<p>По ходу онлайн-курса мы расскажем про основные методы конкурентного анализа. Вы научитесь работать с данными, познакомитесь с функционалом MySQL и узнаете, какие полезные сервисы существуют для мониторинга. В отличии от <a href=\"http://netology.ru/programs/php-sql?ref=bk\">курсов PHP</a>, веб-дизайна и прочих направлений, обучение в рамках этого курса осуществляется по авторской программе. Она не имеет аналогов в российском профессиональном образовании!</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    {
+        "id": 1684,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Личная мотивация",
+        "url": "//netology.ru/courses/lichnayamotivatsiya",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 78,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Личная мотивация может понадобиться вам на любой ступени карьерной лестницы. Если вы студент, менеджер среднего звена, топ-менеджер или владелец бизнеса, вы рано или поздно можете прийти к тому, что внутренняя энергия иссякла и появилась необходимость мотивировать себя на дальнейшее профессиональное или личностное развитие. О том, как это грамотно выйти из сложившейся ситуации, расскажет эксперт курса по личной мотивации Тимофей Левицкий.&nbsp;</p>\r\n\r\n<p>В данном курсе, помимо теоретической части, даны практические советы и рабочие инструменты, которые вы сможете применить на практике сразу после просмотра курса. Вы узнаете о том, как&nbsp;определить, какая у вас миссия, как правильно поставить себе цели и как рационально использовать свое время с помощью базовых навыков тайм-менеджмента.&nbsp;</p>\r\n"
+    },
+    {
+        "id": 1213,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Особенности интернет-маркетинга для B2B",
+        "url": "//netology.ru/courses/marketing-dlya-b2b",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 81,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "marketing",
+            "name": "Маркетинг"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Что сделать для продвижения своей компании в интернет среде? Одного сайта, либо отдельной рекламы будет недостаточно для того, чтоб выстроить полноценную систему электронного маркетинга.</p>\r\n\r\n<p>Андрей Гавриков расскажет как выстроить эту систему для В2В компании, и для компаний на сложных рынках.</p>\r\n\r\n<p>На курсе вы узнаете об инструментах классического интернет-маркетинга, рассмотрите особенности каждого рекламного канала и познакомитесь с мобильным маркетингом. Вы научитесь внедрять систему аналитики данных и поймете на что нужно обращать внимание, разрабатывая сайт компании.</p>\r\n\r\n<p>Данный курс ориентирован на владельцев интернет-бизнесов, интернет-маркетологов и руководители отделов интернет-маркетинга.</p>\r\n\r\n<div>&nbsp;</div>\r\n"
+    },
+    {
+        "id": 975,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Материальная и нематериальная мотивация сотрудников",
+        "url": "//netology.ru/courses/materialnaya-i-nematerialnaya-motivaciya",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 83,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Сотрудник, увлеченный делом, работает более эффективно. Но как быть, если задача не вызывает у него интереса и желания достичь высоких результатов? Как настроить специалиста на продуктивную работу?<br />\r\n<br />\r\nЭтот курс будет полезен HR-специалистам и руководителям подразделений, а также директорам и владельцам бизнеса, которые уверены, что правильно мотивированные специалисты &mdash;&nbsp;важная составляющая успеха.<br />\r\n<br />\r\nНа курсе вы узнаете, какие виды мотивации существуют и в каких ситуациях использовать каждый из них, как понять, чем заинтересовать сотрудника, и как мотивация поможет раскрыть его потенциал.</p>\r\n"
+    },
+    {
+        "id": 757,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Методы развития и обучения сотрудников",
+        "url": "//netology.ru/courses/metodi-razvitiya-i-obucheniya-personala",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 86,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:15px\">Недостаточная квалификация сотрудников, постоянная текучка и низкая продуктивность. Как с этим бороться? Вместо того&nbsp;чтобы брать лишнюю работу на себя, займитесь обучением персонала. Это намного продуктивнее, чем надеяться на поиск идеального сотрудника. &nbsp;</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:15px\">На курсе вы узнаете, какие способы обучения для каких целей использовать, научитесь минимизировать расходы на тренинги и откроете преимущества пассивного обучения. Автор курса расскажет, как бесплатно обучить наставника и сэкономить средства на найме коучей.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:15px\">Самостоятельный и квалифицированный сотрудник сбережет ваше время и повысит прибыль.</span></p>\r\n"
+    },
+    {
+        "id": 543,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Мобильная реклама: SMS, контекстная и медийная реклама в гаджетах",
+        "url": "//netology.ru/courses/mobilnaya-reklama",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 90,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "marketing",
+            "name": "Маркетинг"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Видеокурс разработан для начинающих специалистов, желающих узнать более подробно о нюансах настройки и ведения рекламы в мобильной среде. Последовательно осваивая программу обучения, вы узнаете, что такое мобильная реклама, как создавать стратегию мобильных рекламных кампаний, как пользоваться инструментами Яндекс.Директа, что учитывать при подборе площадок в РСЯ, как купить выгодную позицию для показов.</p>\r\n\r\n<p>На курсе вы подробно рассмотрите три типа мобильной рекламы: <a href=\"http://netology.ru/programs/context-target?ref=bk\">контекстную рекламу</a>, SMS-маркетинг, медийную мобильную рекламу. Научитесь правильно назначать целевые действия, выставлять индивидуальные параметры показов, оценивать плюсы, минусы и эффективность использования каждого из этих каналов.</p>\r\n"
+    },
+    {
+        "id": 1131,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Мобильный нетворкинг",
+        "url": "//netology.ru/courses/mobilniy-netvorking",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 91,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:14.6667px\">Взаимовыгодные деловые связи помогают решать бизнес-задачи разной сложности. Но плотный рабочий график не всегда позволяет уделять профессиональным коммуникациям достаточно времени. Оптимизировать нетворкинг и наладить контакты на ходу можно с помощью мобильных устройств.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6667px\">Курс ориентирован на менеджеров, руководителей и тех, кто хочет научиться легко заводить знакомства с интересными людьми, потенциальными клиентами и партнерами.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6667px\">Леонид Бугаев расскажет об особенностях мобильного нетворкинга. Вы научитесь налаживать полезные связи и избегать типичных ошибок при коммуникации. Сможете определять темы для разговоров и предпочтительные для собеседника каналы коммуникации. Вы узнаете, как развить свою сеть контактов и сделать так, чтобы связи работали на вас.</span></p>\r\n"
+    },
+    {
+        "id": 963,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Наставничество: ситуационное управление персоналом",
+        "url": "//netology.ru/courses/nastavnichestvo",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 105,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Обучение специалиста новой деятельности часто становится для него настоящим испытанием. Не понимая, с чего начать, сотрудник постоянно откладывает задачу. Взявшись за нее, не может проконтролировать результат. Не получая обратной связи, опускает руки. Изменить ситуацию можно, используя инструменты наставничества.</span><br />\r\n<br />\r\n<span style=\"font-family:arial; font-size:14.6666666666667px\">Этот курс полезен руководителям, специалистам по развитию персонала и HR-менеджерам.</span><br />\r\n<br />\r\n<span style=\"font-family:arial; font-size:14.6666666666667px\">Антонина Кашина расскажет, что такое наставничество и ситуационное руководство, а также в каких сферах они применяются. Вы научитесь ставить задачи, контролировать их выполнение и составлять карту развития сотрудника. По ней вы сможете определять, над какими навыками стоит работать в первую очередь. Вы также узнаете, как хвалить и критиковать подопечного, не уменьшая его мотивацию.</span></p>\r\n"
+    },
+    {
+        "id": 792,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Нетворкинг: как заводить полезные связи",
+        "url": "//netology.ru/courses/networking-kak-zavodit-poleznye-svyazi",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 106,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Журналист ищет эксперта для интервью, менеджер хочет договориться с поставщиком, руководителю интернет-магазина нужен дизайнер, который поможет <a href=\"http://netology.ru/programs/landing-pages?ref=bk\">создать лендинг пейдж</a>, а студент не может устроиться на работу. Нам часто не хватает хороших партнерских отношений в деловой сфере. Где искать нужных людей и как найти с ними общий язык для решения своих задач?</p>\r\n\r\n<p>На курсе вы узнаете, как заводить деловые знакомства и выстраивать взаимовыгодные отношения. Научитесь выделять полезные контакты и готовиться к встречам, оценивая ресурсы времени и сил. Леонид Бугаев расскажет, о чем говорить с незнакомым человеком, как кратко и эффективно себя презентовать и сохранить дружеское расположение.</p>\r\n\r\n<p>Будьте профессионалам в той области, в которой вы работаете, и когда нужно получить грамотную консультацию по узкому вопросу, получить определенные услуги (разработать стратегию рекламы, сделать лендинг), самому не обязательно погружаться в детали периферийной области. Ищите интересных людей, расширяйте круг общения и делитесь контактами. Используйте методики курса, и вы перестанете бояться новых знакомств и откроете талант переговорщика.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div>&nbsp;</div>\r\n"
+    },
+    {
+        "id": 1049,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Поиск специалистов для отдела продаж",
+        "url": "//netology.ru/courses/poisk-specialistov-dlya-otdela-prodazh",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 133,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Желая увеличить оборот компании, многие владельцы бизнеса делают ставку на менеджеров по продажам. Но как их найти? Как отличить хорошего продажника среди десятка других кандидатов? Какими компетенциями должен обладать потенциально успешный специалист и как определить его&nbsp;еще на&nbsp;этапе собеседования?</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Продавец, консультант, менеджер по продажам, торговый представитель, страховой агент, финансовый консультант или кредитный специалист &mdash; как бы ни называлась эта позиция, принципы подбора такого сотрудника примерно одинаковы. На курсе пойдет речь о неком обобщенном портрете менеджера по продажам, без акцента внимания на том продукте, который он предлагает. Рекомендации будут одинаково актуальны как для розничных, так и для корпоративных продаж.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Этот курс будет полезен HR-специалистам, руководителям отдела продаж, коммерческим директорам и собственникам бизнеса. Галина Волгач расскажет, по каким критериям найти хорошего продавца и как оценить его качества, навыки и опыт. Вы узнаете, как избежать типичных ошибок при проведении интервью и не поддаться распространенным мифам о профессии.</span></p>\r\n"
+    },
+    {
+        "id": 1045,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как подготовиться к публичному выступлению",
+        "url": "//netology.ru/courses/publichnoe-vystuplenie",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 149,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Специалистам любого уровня рано или поздно приходится выступать перед аудиторией. Но часто из-за страха перед публикой или плохой подготовки голос спикера дрожит, а взгляд опускается в пол. Впечатлить, заинтересовать или просто оставить о себе положительное мнение в такой ситуации крайне сложно.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Этот курс ориентирован на руководителей компаний и всех специалистов, которым периодически приходится выступать на встречах, собраниях или конференциях.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6666666666667px\">Елена Лымарь расскажет, как правильно подготовиться к публичному выступлению и побороть страхи. Вы узнаете, какие инструменты вербального и невербального общения помогут говорить убедительно и управлять вниманием аудитории. Познакомитесь со вспомогательными техническими средствами и поймете, как использовать их на пользу выступлению.</span></p>\r\n"
+    },
+    {
+        "id": 1011,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Разработка системы KPI",
+        "url": "//netology.ru/courses/razrabotka-sistemy-kpi",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 155,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:16px\">Увеличить прибыль компании на 4% можно с помощью грамотно внедренной системы KPI. Она позволяет контролировать работу каждого сотрудника и ставить перед ним конкретные цели. Но немногие руководители знают, как разработать систему оценки эффективности для нужд конкретной компании.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:16px\">Курс ориентирован на менеджеров по управлению персоналом, HR-директоров, топ-менеджеров, руководителей и владельцев бизнеса.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:16px\">Василий Проша</span><span style=\"font-family:arial; font-size:16px\"> расскажет, что представляет собой система KPI, в каких случаях ее стоит разрабатывать и внедрять. Вы научитесь определять цели компании и формировать перечень KPI для разных должностей. Вы узнаете, какие &laquo;подводные камни&raquo; могут возникнуть во время внедрения системы оценки эффективности и как их избежать.</span></p>\r\n"
+    },
+    {
+        "id": 750,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Способы повышения эффективности сотрудников",
+        "url": "//netology.ru/courses/sposobi-povysheniya-effektivnosti-sotrudnikov",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 185,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Постоянная текучка, выгорание и неэффективная работа сотрудников, загруженность руководителя текущими, а не стратегическими вопросами &mdash; эти проблемы можно свести к&nbsp;нулю, если создать эффективную систему роста персонала.</p>\r\n\r\n<p>На&nbsp;курсе вы&nbsp;поймете, зачем вам тратить время на развитие сотрудников и почему важно продвинуть не одного человека, а подтянуть успеваемость всей команды.&nbsp; Вы&nbsp;научитесь предотвращать проблемы, а не &laquo;гасить пожары&raquo;, узнаете, какие бывают подходы в&nbsp;обучении персонала, отработаете алгоритмы повышения мотивации и поймете базовые принципы, как самому спланировать работу подчиненных. Узнаете, <a href=\"http://netology.ru/programs/landing-pages?ref=bk\">как сделать лендинг пейдж</a> для мотивации коллектива и в доступном формате описать то, чего вы хотите добиться от команды.</p>\r\n\r\n<p>Самостоятельный и&nbsp;довольный работой сотрудник принесет несравнимо больше пользы вашему бизнесу. Пройдите этот курс, чтобы вырастить в&nbsp;своей компании инициативных членов команды, а&nbsp;не&nbsp;вялых исполнителей.</p>\r\n"
+    },
+    {
+        "id": 1171,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Стресс-менеджмент",
+        "url": "//netology.ru/courses/stress-menedzhment",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 190,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p><span style=\"font-family:arial; font-size:14.6667px\">&laquo;Стресс&raquo; &mdash; один из лидеров среди самых часто употребляемых слов. В современном темпе жизни тяжело совмещать в себе роли профессионала, родителя, друга и находить время для увлечений. Плохое самочувствие, хроническая усталость, выгорание и болезни &mdash; все это следствие стресса. </span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6667px\">Этот курс будет полезен руководителям, специалистам, родителям, студентам и всем, кто интересуется стресс-менеджментом.</span></p>\r\n\r\n<p><span style=\"font-family:arial; font-size:14.6667px\">Елена Лымарь расскажет о техниках преодоления стресса и работе с его последствиями. Вы научитесь предупреждать неприятности и регулировать свое внутреннее состояние. Сможете сознательно управлять жизненным потенциалом и сохранять энергию в стрессовых ситуациях.</span></p>\r\n"
+    },
+    {
+        "id": 747,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Тайм-менеджмент: простые способы управления временем",
+        "url": "//netology.ru/courses/taim-menedzhment-prostye-sposoby-upravleniya-vremenem",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 191,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "marketing",
+            "name": "Маркетинг"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Каждый день на&nbsp;вас наваливается миллион дел&nbsp;&mdash; рабочих, личных, семейных. Вы&nbsp;постоянно что-то делаете, но&nbsp;при этом ничего не&nbsp;успеваете. Проблема&nbsp;&mdash; в&nbsp;неэффективном управлении временем.</p>\r\n\r\n<p>На&nbsp;курсе вы&nbsp;узнаете, что такое правильный тайм-менеджмент, откроете для себя собственных поглотителей времени, научитесь планировать каждый день и&nbsp;правильно расставлять приоритеты.</p>\r\n\r\n<p>Вы&nbsp;начнете эффективно распределять рабочую нагрузку, избежите синдрома выгорания и&nbsp;научитесь отдыхать.</p>\r\n"
+    },
+    {
+        "id": 670,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Технология подбора персонала",
+        "url": "//netology.ru/courses/tehnologiya-podbora-personala",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 197,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Подолгу ищете новых сотрудников и&nbsp;не&nbsp;всегда довольны конечным результатом? Скорее всего, вы&nbsp;используете не&nbsp;самые эффективные способы подбора и&nbsp;не&nbsp;знаете обо всех кадровых инструментах.</p>\r\n\r\n<p>На&nbsp;курсе вы&nbsp;поймете, как организовать поиск кандидатов, сможете составить HR-стратегию, прочитать между строк любое резюме, оценить персонал и&nbsp;правильно провести интервью.</p>\r\n\r\n<p>С&nbsp;помощью курса вы&nbsp;станете быстрее закрывать вакансии и&nbsp;находить наиболее подходящих сотрудников для решения задач компании.</p>\r\n"
+    },
+    {
+        "id": 915,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Управление личными финансами: куда вложить деньги",
+        "url": "//netology.ru/courses/upravlenie-lichnymi-finansami",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 216,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Что делать со сбережениями? Главное &mdash; не прятать их &laquo;под подушкой&raquo;. Пусть деньги начнут работать на вас!</p>\r\n\r\n<p>На этом курсе вы узнаете плюсы и минусы банковских карт, депозитов, акций, ПИФов и пенсионных накоплений. Наталия Шилова расскажет, куда вложить небольшие средства до 300 000&nbsp;рублей, как распорядиться средними суммами и во что инвестировать миллионы.</p>\r\n\r\n<p>После курса вы будете знать, как получить наибольший доход от вложений, не рискуя все потерять.</p>\r\n"
+    },
+    {
+        "id": 567,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Основы Agile: метод Scrum для веб-разработки",
+        "url": "//netology.ru/courses/agile-s-nylya",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 236,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Пройдя курс Agile, вы научитесь последовательным действиям, которые повысят эффективность вашей команды. В ходе обучения вы освоите принципиальные моменты философии Agile-методологий и разберете <a href=\"http://netology.ru/programs/agile?ref=bk\">основы Scrum</a>. Из программы тренинга вы узнаете, как с нуля планировать большие проекты, работать с командой, контролировать ход работ по проекту и добиться того, чтобы ваш заказчик видел результаты и был ими доволен.</p>\r\n\r\n<p>Пройти курс и получить соответствующий сертификат будет полезно всем, кто хочет настроить рабочий процесс с Agile, &ndash; менеджерам проектов, аналитикам, тимлидам, разработчикам, стартап-предпринимателям.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    {
+        "id": 611,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Customer Development: как понять, чего хочет ваш клиент",
+        "url": "//netology.ru/courses/customer-development",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 241,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<div>Перед вами методологическая основа для создания и развития нового проекта. С помощью подходов, изложенных в курсе, вы сможете найти и опробовать решения на своих &laquo;тестовых&raquo; потребителях. Научитесь выявлять потребности потребителя через разнообразные &laquo;глубинные&raquo; интервью, а результаты исследований внедрять в рамках своего проекта.</div>\r\n\r\n<div>Метод Customer Development &mdash; один из столпов подхода lean startup&nbsp;, который используется для тестирования бизнес-модели и создания первичного продукта.&nbsp;</div>\r\n"
+    },
+    {
+        "id": 652,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Основы бережливого стартапа, метод lean startup",
+        "url": "//netology.ru/courses/osnovy-berezhlivogo-proizvodstva-metod-lean-startup",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 264,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Проблема российских стартапов &mdash; отсутствие системного подхода в создании продуктов. Чаще всего хорошую бизнес-идею развивают по интуиции, не спрашивая обратной связи рынка. Именно поэтому 9 из 10 стартапов проваливаются.</p>\r\n\r\n<p>На этом курсе вы научитесь применять принципы бережливого стартапа и развиваться короткими итерациями, постоянно корректируя свою стратегию и избегая непоправимых ошибок.&nbsp;</p>\r\n\r\n<p>Вы начнете руководствоваться правильными метриками, узнаете, как быстро получать фидбэк от потребителей и сможете выпустить продукт, который полностью соответствует требованиям клиентов. Это сэкономит вам месяцы работы и миллионы рублей на запуск и продвижение компании.&nbsp;</p>\r\n"
+    },
+    {
+        "id": 910,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как составить партнерское соглашение",
+        "url": "//netology.ru/courses/partnerskoe-soglashenie",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "0",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 269,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Даже если вы ведете бизнес с лучшим другом, не забудьте составить партнерское соглашение. С его помощью вы распределите обязанности и прибыли, первоначальные вложения и зоны ответственности. Этот документ станет вашей страховкой от будущих конфликтов.</p>\r\n\r\n<p>Курс адресован предпринимателям, руководителям малого и среднего бизнеса. Вы узнаете, как выбрать делового партнера и для чего необходимо партнерское соглашение. Поймете, какие разделы включить в этот документ и каких принципов придерживаться при его написании.</p>\r\n\r\n<p>После курса вы будете знать, как построить диалог с партнером и прийти к взаимовыгодному соглашению.</p>\r\n"
+    },
+    {
+        "id": 538,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Разработка нового продукта методом lean startup",
+        "url": "//netology.ru/courses/razrabotka-novogo-produkta-metodom-leanstartup",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 281,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Андрей Сапожников, руководитель проектов в компании &laquo;АТ-Консалтинг&raquo;, научит вас практическому использованию стратегии lean-мышления в управлении вашим проектом.<br />\r\nКурс полезен для предпринимателей и менеджеров проекта, которые продвигают свои продукты, услуги, <a href=\"http://netology.ru/programs/landing-pages?ref=bk\">используя лэндинги</a>, персональные и корпоративные сайты. Изучите основные принципы lean-мышления и начните их применять, чтобы запускать новые продукты или стартапы быстрее и лучше.</p>\r\n"
+    },
+    {
+        "id": 974,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Управление распределенной командой",
+        "url": "//netology.ru/courses/upravlenie-raspredelennoy-komandoy",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 291,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Сегодня&nbsp;владельцу бизнеса вовсе не обязательно территориально централизовать работу своей компании. Большой объем задач можно доверить сотрудникам, находящимся в другом районе, городе или стране. Так предприниматель сократит издержки, а специалисты будут экономить время на дорогу до офиса. Однако контролировать такой процесс намного сложнее.<br />\r\nЭтот курс рекомендован&nbsp;предпринимателям, руководителям и владельцам бизнеса, которые хотят создать эффективную распределенную команду. Также не лишнем будет прослушать этот курс <a href=\"http://netology.ru/programs/product-manager?ref=bk\">менеджерам интернет-проектов</a>, которые курируют работу удаленных копирайтеров, веб-дизайнеров, редакторов, оптимизаторов.<br />\r\nМаксим Панфилов расскажет, чем управление удаленной командой отличается от работы с фрилансерами и в чем плюсы и минусы такого подхода. По ходу обучения вы научитесь организовывать работу команды без ущерба качеству и контролировать результат с помощью специальных программ и сервисов.</p>\r\n\r\n<p>&nbsp;</p>\r\n"
+    },
+    {
+        "id": 753,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Веб-разработка: работа с внешними подрядчиками и фрилансерами",
+        "url": "//netology.ru/courses/veb-razrabotka-rabota-s-vneshnimi-podryadchikami-i-frilanserami",
+        "duration": "",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 293,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 790,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "<p>Вам надо создать сайт, настроить CRM-систему или разработать веб-приложение. Вы стоите перед выбором: своя команда или аутсорсинг. Какой вариант предпочесть, кого назначить руководителем проекта и как найти хороших исполнителей?</p>\r\n\r\n<p>На онлайн-курсе вы разберете <a href=\"http://netology.ru/programs/product-manager?ref=bk\">обязанности менеджера продукта </a>(проекта), рассмотрите ключевые компетенции, которыми должен владеть project manager, а также узнаете плюсы и минусы работы с фрилансерами и веб-студиями. Осваивая программу обучения, вы постепенно научитесь правильно формулировать задачи и не допустите расходования бюджета впустую. Поймете, как управлять удаленными сотрудниками и какие сервисы для этого существуют.</p>\r\n\r\n<p>В результате вы не сорвете сроки сдачи проекта, сэкономите бюджет и минимизируете ущерб в случае исчезновения недобросовестного подрядчика.</p>\r\n"
+    },
+    {
+        "id": 933,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Современная веб-разработка: инструменты и хитрости frontend-специалиста",
+        "url": "//netology.ru/free-lessons/frontend",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "//netology.ru/program/frontend.png",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 250,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": null
+    },
+    {
+        "id": 990,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Менеджер интернет-проектов: как выбирать коробочную CMS",
+        "url": "//netology.ru/free-lessons/vybor_cms",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 296,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": null
+    },
+    {
+        "id": 1446,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как найти работу в интернет-сфере: чек-лист для новичков",
+        "url": "//netology.ru/free-lessons/hr-consultation",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "//netology.ru/program/hr-consultation.png",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 251,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Как найти работу в интернет-сфере или продвинуться по карьерной лестнице — об этом вы сможете поговорить на открытом занятии с Вероникой Цымбаловой, руководителей HR-департамента «Нетологии-групп». "
+    },
+    {
+        "id": 1529,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как сделать бота для Telegram: пошаговая инструкция для новичков",
+        "url": "//netology.ru/free-lessons/telegram-bot",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 383,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Мессенджеры завоевали наши телефоны, мы уже вовсю используем каналы, групповые чаты и ботов. Боты — это удобно, они автоматизируют раздачу контента и решают другие задачи без посредников."
+    },
+    {
+        "id": 1610,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "PHP-разработчик: инструменты, окружение, подходы к разработке, методы обучения",
+        "url": "//netology.ru/free-lessons/oz_php_160616",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 375,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Настала пора, когда программировать стало модным.Сейчас самый популярный язык — это PHP. О том, с чего начать его изучение, вы узнаете на открытом занятии. "
+    },
+    {
+        "id": 1784,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как создать чат-бота на PHP за 1 час",
+        "url": "//netology.ru/free-lessons/phpchatbot",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 271,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "edmarket",
+                "name": "EdMarket"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Мессенджеры завоевали наши телефоны, мы уже вовсю используем каналы, групповые чаты и ботов. Боты — это удобно, они автоматизируют раздачу контента и решают другие задачи без посредников."
+    },
+    {
+        "id": 1828,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "День открытых знаний: бесплатные лекции по разработке",
+        "url": "//netology.ru/free-lessons/op-programs",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "open.netology.ru/?utm_source=netology&utm_medium=banner&utm_campaign=development",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 372,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "«Нетология» 1 и 2 сентября откроет доступ ко всем лекциям своего онлайн-университета. Любой сможет бесплатно посетить занятия по маркетингу, дизайну, управлению проектами и программированию."
+    },
+    {
+        "id": 1783,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как пройти собеседования в зарубежную компанию на английском языке",
+        "url": "//netology.ru/free-lessons/interviewineng",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 50,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "hr",
+            "name": "HR"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Далеко не секрет для каждого, что знания английского языка являются огромным плюсом при прохождении собеседования. О том, как успешно пройти собеседование на английском языке вы поговорите на открытом занятии. "
+    },
+    {
+        "id": 1814,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Основы экстремального программирования: как научиться качественно писать код",
+        "url": "//netology.ru/free-lessons/ozxp",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 374,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Многим разработчикам и не приходит в голову, что улучшить свой продукт они могут с помощью гибкой методологии, которая называется экстремальное программирование.  О принципах этой методологии мы поговорим на вебинаре. "
+    },
+    {
+        "id": 2021,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Разработка на Python: как решать задачи даже если вы гуманитарий",
+        "url": "//netology.ru/free-lessons/oz-python",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 373,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "С Python студенты начинают изучать программирование, потому что он прост в освоении. Хотите узнать, как Phyton может помочь в вашей работе? Записывайтесь на открытый вебинар, который пройдет 16 ноября. "
+    },
+    {
+        "id": 2114,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Консультация по курсу «PHP/SQL: back-end разработка и базы данных»",
+        "url": "//netology.ru/free-lessons/php-consultation",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 378,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Программирование сайтов давно не является уделом скромных научных сотрудников. Сейчас самый популярный язык — это PHP. Как приступить к его изучению?  Об этом мы поговорим на консультации с Дмитрием Фитискиным. "
+    },
+    {
+        "id": 2195,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "JavaScript: что нового появилось в языке за последние годы",
+        "url": "//netology.ru/free-lessons/dev-jsnew-271216",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 355,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На открытом занятии мы посмотрим, что нового появилось в JavaScript за последние годы, что из этого можно использовать уже сейчас. И как это сделает разработку на JavaScript  чище и проще. "
+    },
+    {
+        "id": 2256,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Верстаем интерактивный баннер: пошаговая инструкция для новичков",
+        "url": "//netology.ru/free-lessons/dev-html-banner-160117",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 306,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "directions": [{
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Разберем как с помощью HTML и CSS создать красивый баннер, реагирующий на движение мышки пользователя"
+    },
+    {
+        "id": 2196,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Парсинг данных на Python: просто и полезно",
+        "url": "//netology.ru/free-lessons/dev-python-230117",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 360,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Python — дружелюбный язык, на нем не так сложно программировать, как может показаться. На мастер-классе вас научат парсить данные и вы сможете написать свою первую программу на языке Python."
+    },
+    {
+        "id": 2272,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Консультация по курсу «Python: программирование на каждый день и сверхбыстрое прототипирование»",
+        "url": "//netology.ru/free-lessons/dev-python-consultation-300117",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 361,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На курсе «Python: программирование на каждый день и сверхбыстрое прототипирование» мы начнем с знакомства с языком, простыми типами данных и сложными структурами. На занятии вы сможете задать вопросы о курсе. "
+    },
+    {
+        "id": 2209,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Консультация по курсу «PHP/SQL: back-end разработка и базы данных»",
+        "url": "//netology.ru/free-lessons/dev-php-consultation-010217",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 359,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Программирование сайтов давно не является уделом скромных научных сотрудников. Сейчас самый популярный язык — это PHP. Как приступить к его изучению?  Об этом мы поговорим на консультации с Дмитрием Фитискиным. "
+    },
+    {
+        "id": 2278,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как писать чистый код на JavaScript",
+        "url": "//netology.ru/free-lessons/dev-javascript-code",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 353,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На открытом занятии разберем вопросы написания качественного кода на языке JavaScript, выясним что значит качественный код, а также разберем примеры работы с плохим кодом. "
+    },
+    {
+        "id": 2219,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Консультация по курсу «JavaScript: и современныe возможности языка»",
+        "url": "//netology.ru/free-lessons/dev-javascript-consultation-080217",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 354,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На консультации Дмитрий Фитискин расскажет о базовых понятия JavaScript, а также поднимет вопросы, которыми пугают на собеседованиях не только новичков, но и опытных JavaScript разработчиков. "
+    },
+    {
+        "id": 2297,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Верстаем интерактивное слайд-ин меню",
+        "url": "//netology.ru/free-lessons/dev-slide-in-menu",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 362,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На занятии мы создадим «выезжающее» меню для сайта, используя только html и css. Пошагово мы составим html-разметку и добавим анимацию, разбирая встретившиеся нам по пути css свойства и приемы стилизации. "
+    },
+    {
+        "id": 2524,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Создаём простой чат на Node.js",
+        "url": "//netology.ru/free-lessons/dev-nodejs-chat",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 358,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Node.js — одна из самых быстрорастущих платфор для создания масштабируемых веб-приложений. В рамках этого занятия вы узнаете как начать использовать Node.js, историю его появления, и проблемы которые он создан решать"
+    },
+    {
+        "id": 2178,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Консультация по курсу «Node, Angular и MongoDB: разработка полноценных веб-приложений»",
+        "url": "//netology.ru/free-lessons/dev-nodejs130317",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 357,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Программирование сайтов давно не является уделом скромных научных сотрудников. Настала пора, когда программировать стало модным. "
+    },
+    {
+        "id": 2525,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Создаем простую браузерную игру на JavaScript",
+        "url": "//netology.ru/free-lessons/dev-browser-game",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 349,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "В рамках открытого занятия создадим простою браузерную игру"
+    },
+    {
+        "id": 2526,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Консультация по курсу «Front-end разработка: создаем интерактивные веб-страницы»",
+        "url": "//netology.ru/free-lessons/dev-front-end-consultation",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 352,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На консультации я постараюсь ответить на часто задаваемые вопросы по этому курсу а так же ответить на все вопросы участников."
+    },
+    {
+        "id": 2409,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как разработчику пройти собеседование на английском языке",
+        "url": "//netology.ru/free-lessons/dev-cv",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 350,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На  открытом занятии мы поговорим как составить резюме на английском языке, а также успешно пройти собеседование. "
+    },
+    {
+        "id": 3106,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "10100011: с машиной на одном языке",
+        "url": "//netology.ru/free-lessons/algorithm",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 346,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Познакомимся с алгоритмами, узнаем что это такое, и как одну задачу решить двумя способами,  составим простой алгоритм, который поможет вам с 20 попыток угадать число от 1 до 1 000 000."
+    },
+    {
+        "id": 3201,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Путь веб-разработчика: как войти в IT",
+        "url": "//netology.ru/free-lessons/webdev_howto",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 384,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Быть веб-разработчиком в наше время — это отличный способ совмещать приятное с полезным. В то время как ты можешь полностью обеспечивать себя и свою семью всем необходимым, ты можешь при этом жить в любой стране, которая"
+    },
+    {
+        "id": 3457,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Кодинг под пальмой, или все программисты попадают в Тай",
+        "url": "//netology.ru/free-lessons/remote_job",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 382,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Многие выбирают профессию программиста в том числе и из-за возможности быть свободнее. Фрилансер может путешествовать по миру или сразу отправиться в теплые края и выполнять проекты дистанционно."
+    },
+    {
+        "id": 3828,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как веб-дизайнеру стать программистом",
+        "url": "//netology.ru/free-lessons/dev-kak-web-dizaineru-stat-programmistom",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 386,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Если вы раздумывали о том, кем стать —  веб-дизайнером или программистом, и решили склониться к первому варианту, а потом передумали.. Или же вы уже состоявшийся веб-дизайнер и хотите освоить новую профессию, то это откр"
+    },
+    {
+        "id": 3684,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как стать программистом и найти крутую работу",
+        "url": "//netology.ru/free-lessons/dev-kak-stat-programmistom-i-naiti-rabotu-23-01-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 356,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Вы планируете стать разработчиком, но пока не знаете с чего и как начать? Тогда это занятие поможет вам определиться, в каком из направлений разработки стоит развиваться именно вам и как после обучения найти работу"
+    },
+    {
+        "id": 4038,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Врываемся в digital: как стать востребованным специалистом",
+        "url": "//netology.ru/free-lessons/vrivaemsya-v-digital-13-02-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 405,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "marketing",
+            "name": "Маркетинг"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Как сориентироваться в быстро развивающейся сфере digital и правильно выбрать профессию? Об это расскажет руководитель направления профориентайции в Нетологии Аня Давыдова."
+    },
+    {
+        "id": 4146,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Трудовое право: мифы и реальность",
+        "url": "//netology.ru/free-lessons/trudovoe-pravo-mify-i-realnost",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 415,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На открытом занятии мы поговорим о том, как защитить свои права и о чем стоит подумать перед тем, как приступить к работе, будь то фриланс или устройство на постоянную работу."
+    },
+    {
+        "id": 3728,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как использовать Big Data для вашего бизнеса",
+        "url": "//netology.ru/free-lessons/ds-kak-ispolzovat-big-data-dlya-vashego-biznesa-12-03-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 31,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "data-science",
+            "name": "Аналитика"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Что такое Big Data и как ее использовать для вашего бизнеса? На эти вопросы ответит на открытом занятии Нетологии, генеральный директор Clever DATA"
+    },
+    {
+        "id": 4213,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Создание адаптивной типографики на сайте для разных устройств",
+        "url": "//netology.ru/free-lessons/dev-sozdanie-adaptivnoy-tipografiki-na-saite-dlya-raznih-ustroistv",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 426,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Сегодня пользователь может просматривать созданный вами сайт с любого из множества доступных устройств. О том, как создавать для них адаптивную типографику, мы поговорим на открытом занятии."
+    },
+    {
+        "id": 4125,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Программирование для новичков: с чего начать изучение Python",
+        "url": "//netology.ru/free-lessons/dev-programmirovanie-dlya-novichkov-s-chego-nachat-izuchenie-python-19-03-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 412,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "На открытом занятии мы поговорим о том, что может быть наиболее эффективно именно для вас, сравним плюсы и минусы самостоятельного изучения языка с онлайн-курсами."
+    },
+    {
+        "id": 4444,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "7 смертных грехов в работе с клиентами",
+        "url": "//netology.ru/free-lessons/7-smertnyh-grehov-v-rabote-s-klientami-25-04-18",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 439,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Разрушим несколько популярных мифов о клиентоориентированности. Занятие будет полезно для всех, кто работает с заказчиками и клиентами в digital, а также других сферах бизнеса."
+    },
+    {
+        "id": 4491,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Хочу в Digital: с чего начать?",
+        "url": "//netology.ru/free-lessons/karera-v-digital-14-05-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 436,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "marketing",
+            "name": "Маркетинг"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            },
+            {
+                "slug": "hr",
+                "name": "HR"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Многие профессии трансформируются, какие-то устаревают - и самое время освоить одну из востребованных digital-профессий. Или приобрести компетенции, которые выведут вас на качественно новый уровень."
+    },
+    {
+        "id": 4473,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Карьерный путь разработчика: обучение и трудоустройство",
+        "url": "//netology.ru/free-lessons/dev-karernyi-put-razrabotchika-obuchenie-i-trudoustroistvo-16-05-18",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 421,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Вы планируете стать разработчиком, но пока не знаете с чего и как начать? Тогда это занятие поможет вам определиться, в каком из направлений разработки стоит развиваться именно вам и как после обучения найти работу"
+    },
+    {
+        "id": 4493,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как пройти собеседование с техническим специалистом?",
+        "url": "//netology.ru/free-lessons/sobesedovanie-s-tekhlidom-24-05-18",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 442,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Рассмотрим проблемы возникающие на собеседовании и пути их решения, развеем мифы и поделимся лайфхаками. Занятие будет полезно как новичкам с опытом, так и тем, кто только собирается пойти по пути разработчика."
+    },
+    {
+        "id": 5208,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Возможности Ruby и Ruby on Rails",
+        "url": "//netology.ru/free-lessons/ruby-vozmozhnosti-i-preimushchestva-23-08-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 440,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Практика показывает, что специалист работающий на Ruby on Rails, разрабатывает проекты на 30-40% быстрее специалиста, работающего на любом другом языке программирования. На занятии расскажем о возможностях этого языка."
+    },
+    {
+        "id": 5391,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "День открытых дверей Нетологии: обучение, мотивация и перспективы трудоустройства",
+        "url": "//netology.ru/free-lessons/obuchenie-v-netology-12-09-2018",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 107,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "management",
+            "name": "Бизнес и управление"
+        },
+        "directions": [{
+                "slug": "marketing",
+                "name": "Маркетинг"
+            },
+            {
+                "slug": "management",
+                "name": "Бизнес и управление"
+            },
+            {
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            },
+            {
+                "slug": "data-science",
+                "name": "Аналитика"
+            },
+            {
+                "slug": "hr",
+                "name": "HR"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Размышляете о том, как построить карьеру или улучшить показатели вашего бизнеса, посетив онлайн-курсы? Мы ответим на все ваши вопросы и расскажем, как сделать процесс обучения максимально продуктивным."
+    },
+    {
+        "id": 5923,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Изучаем веб-разработку: история веба и языков программирования для начинающих",
+        "url": "//netology.ru/free-lessons/izuchaem-veb-razrabotku-istoriya-veba-i-yazykov-programmirovaniya-dlya-nachinayushchih",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 609,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Руководитель веб-разработки в Keenetic Евгений Корытов познакомит вас с основными языками программирования, поделится историей их появления, объяснит причины выбора того или иного языка для выполнения конкретных задач."
+    },
+    {
+        "id": 6025,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Как стать успешным программистом, а не просто научиться кодить?",
+        "url": "//netology.ru/free-lessons/kak-stat-uspeshnym-programmistom-a-ne-prosto-nauchitsya-kodit",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 614,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Как и что освоить, чтобы успешно расти и развиваться в профессии программиста, расскажет веб-разработчик с десятилетним опытом — Владимир Языков, основатель Useful Web."
+    },
+    {
+        "id": 6326,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Урок Android-разработки с нуля: ваше первое мобильное приложение",
+        "url": "//netology.ru/free-lessons/urok-android-razrabotki-s-nulya-vashe-pervoe-mobilnoe-prilozhenie-09-11-18",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 616,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Чтобы начать разрабатывать на Android, не обязательно иметь опыт программирования — так давайте скорее начнём!"
+    },
+    {
+        "id": 6348,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Javascript-разработчик: востребованность, опасности и перспективы",
+        "url": "//netology.ru/free-lessons/javascript-razrabotchik-vostrebovannost-opasnosti-i-perspektivy",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 641,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Каков обязательный минимум навыков? Каков желательный максимум? Какие библиотеки и фреймворки изучать? Как измерить уровень навыка? Какие возможны карьерные траектории и куда расти в Javascript-разработке?"
+    },
+    {
+        "id": 5922,
+        "type": "online",
+        "program_type": "lesson",
+        "label": "Асинхрон",
+        "name": "Python в веб-разработке: с чего начать",
+        "url": "//netology.ru/free-lessons/python-v-veb-razrabotke-preimushchestva-yazyka-i-karera-28-11-18",
+        "duration": "0 дней",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 380,
+        "program_type_id": 1,
+        "program_type_alias": "lesson",
+        "is_async": true,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": null
+        },
+        "educational_level": null,
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": "Язык Python прост для начинающих, имеет множество преимуществ на фоне его конкурентов в веб-разработке, плюс – имеет широкие возможности в других сферах. Как освоить и преуспеть в профессии Python-разработчика?"
+    },
+    {
+        "id": 21003,
+        "type": "online",
+        "program_type": "course",
+        "label": "Осталось 16 дней",
+        "name": "Какой язык программирования учить первым",
+        "url": "//netology.ru/programs/kakoj-yazyk-programmirovaniya-uchit-pervym",
+        "duration": "10 дней",
+        "projects_amount": "10 занятий",
+        "experts_amount": "4 эксперта",
+        "starts_at": "29 июня",
+        "date": "2021-06-29",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 2050,
+        "program_type_id": 2,
+        "program_type_alias": "course",
+        "is_async": false,
+        "initial_price": 0,
+        "current_price": 0,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/2050/Mask_Group.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "show_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "free",
+        "description": ""
+    }
+]

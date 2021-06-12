@@ -1,0 +1,715 @@
+[{
+        "weight": "0.01",
+        "id": 21275,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Тестировщик ПО",
+        "url": "//netology.ru/programs/qa",
+        "duration": "7 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "//netology.ru/program/qa.png",
+        "color": "#B7CDF8",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 789,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 57900,
+        "current_price": 46740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/789/Mask_Group-13-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Станьте IT-специалистом, отвечающим за качество готового технологического продукта. Освойте ручное и автоматизированное тестирование и получите шанс присоединиться к команде тестирования Альфа-Банка.</p>\r\n"
+    },
+    {
+        "weight": "0.02",
+        "id": 21295,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Инженер по тестированию: с нуля до middle",
+        "url": "//netology.ru/programs/qa-middle",
+        "duration": "14 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "",
+        "color": "#B7CDF8",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1756,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1756/Mask_Group.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Станьте IT-специалистом, отвечающим за качество готового технологического продукта. Освойте ручное и автоматизированное тестирование и получите шанс присоединиться к команде тестирования Альфа-Банка.</p>\r\n"
+    },
+    {
+        "weight": "0.03",
+        "id": 19667,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Java-разработчик с нуля",
+        "url": "//netology.ru/programs/java-developer",
+        "duration": "11 месяцев",
+        "projects_amount": "31 занятие",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "//netology.ru/program/java-developer.png",
+        "color": "#F6BD94",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1131,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1131/java-developer.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Научитесь программировать с нуля и получите возможность пройти собеседование в Альфа-Банке. Во время обучения вы будете работать с реальными прикладными задачами: от разработки простого калькулятора до создания облачного хранилища. Вы научитесь думать, как программист, искать информацию и креативно подходить к&nbsp;решению проблем.&nbsp;</p>\r\n"
+    },
+    {
+        "weight": "0.04",
+        "id": 19718,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 2 дня",
+        "name": "Python-разработчик с нуля",
+        "url": "//netology.ru/programs/python",
+        "duration": "8 месяцев",
+        "projects_amount": "26 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "15 июня",
+        "date": "2021-06-15",
+        "program_image": "//netology.ru/program/python.png",
+        "color": "#89B0D4",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 376,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 69900,
+        "current_price": 56940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/376/%D0%BF%D0%B0%D0%B8%CC%86%D1%82%D0%BE%D0%BD.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Став Python-разработчиком, вы делаете первый шаг в создании&nbsp;современных веб-приложений, без которых не обходится ни один современный проект. К тому же, получив опыт программирования&nbsp;на Python, вы сможете начать работать с большими данными и алгоритмами машинного обучения.</p>\r\n"
+    },
+    {
+        "weight": "0.05",
+        "id": 20721,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 12 дней",
+        "name": "Разработчик игр на Unity",
+        "url": "//netology.ru/programs/unity-developer",
+        "duration": "9 месяцев",
+        "projects_amount": "9 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "25 июня",
+        "date": "2021-06-25",
+        "program_image": "",
+        "color": "#fff",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1452,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 119900,
+        "current_price": 59950,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1452/Mask_Group.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "show_direction": {
+            "slug": "design",
+            "name": "Дизайн и UX"
+        },
+        "directions": [{
+                "slug": "design",
+                "name": "Дизайн и UX"
+            },
+            {
+                "slug": "development",
+                "name": "Программирование"
+            }
+        ],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    }, {
+        "weight": "0.06",
+        "id": 21351,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 24 дня",
+        "name": "1С-программист",
+        "url": "//netology.ru/programs/developer1c",
+        "duration": "7 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 7 июля",
+        "date": "2021-07-07",
+        "program_image": "",
+        "color": "#FFDE88",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1059,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 69900,
+        "current_price": 56940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1059/1%D1%81.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Научитесь разворачивать и настраивать 1С для решения кадровых, бухгалтерских задач и задач бизнеса. За полгода вы станете уверенным и востребованным на рынке junior-разработчиком. После обучения сможете показать, что работали над реальными проектами.</p>\r\n"
+    },
+    {
+        "weight": "0.07",
+        "id": 21348,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 15 дней",
+        "name": "Системный администратор",
+        "url": "//netology.ru/programs/sysadmin",
+        "duration": "12 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "28 июня",
+        "date": "2021-06-28",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1562,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 58950,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1562/Mask_Group-min__1_.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "weight": "0.08",
+        "id": 21014,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 2 дня",
+        "name": "Fullstack-разработчик на Python",
+        "url": "//netology.ru/programs/fullstack-python-dev",
+        "duration": "18 месяцев",
+        "projects_amount": "26 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "15 июня",
+        "date": "2021-06-15",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1891,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 112900,
+        "current_price": 89940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1891/Group_754.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "weight": "0.09",
+        "id": 19688,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 8 дней",
+        "name": "Веб-разработчик с нуля",
+        "url": "//netology.ru/programs/web-developer",
+        "duration": "18 месяцев",
+        "projects_amount": "23 занятия",
+        "experts_amount": "0 экспертов",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "//netology.ru/program/web-developer.png",
+        "color": "#b0c5ee",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 366,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 112900,
+        "current_price": 89940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/366/%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Пройдите курс по веб-разработке, если вы хотите войти в IT, но не умеете программировать ни на одном языке и даже не знаете, с чего начать. Программа с постепенным нарастанием уровня сложности разработана для тех, кто не писал ни строчки кода и никогда не верстал. Вы изучите модули по фронтенду, в которые входят: вёрстка HTML, JavaScript, Git, GitHub, а также основы бэкенда &mdash; основы PHP. По завершении курса с базовыми навыками вы сможете начать работу junior-разработчиком в небольшой компании и выбрать дальнейшую специализацию.</p>\r\n"
+    },
+    {
+        "weight": "0.10",
+        "id": 21363,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 24 дня",
+        "name": "Специалист по информационной безопасности с нуля",
+        "url": "//netology.ru/programs/informationsecurity",
+        "duration": "12 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 7 июля",
+        "date": "2021-07-07",
+        "program_image": "",
+        "color": "#fff",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1248,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1248/Mask_Group-1-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "weight": "0.11",
+        "id": 19670,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 18 дней",
+        "name": "Android-разработчик с нуля",
+        "url": "//netology.ru/programs/android-app",
+        "duration": "9 месяцев",
+        "projects_amount": "31 занятие",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 1 июля",
+        "date": "2021-07-01",
+        "program_image": "//netology.ru/program/android-app.png",
+        "color": "#AADC8C",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 549,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 70740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/549/android-app3.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Вы с нуля освоите программирование на Java и Kotlin и разработку под Android&nbsp;и самостоятельно разработаете многоэкранное приложение с локализацией на двух языках.</p>\r\n"
+    },
+    {
+        "weight": "0.12",
+        "id": 19684,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Уже идет",
+        "name": "Frontend-разработчик с нуля",
+        "url": "//netology.ru/programs/front-end",
+        "duration": "12 месяцев",
+        "projects_amount": "32 занятия",
+        "experts_amount": "0 экспертов",
+        "starts_at": " 8 июня",
+        "date": "2021-06-08",
+        "program_image": "//netology.ru/program/front-end.png",
+        "color": "#F7E2D3",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 365,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 96900,
+        "current_price": 77940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/365/Mask_Group-18-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": true,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Освойте одну из самых востребованных профессий на сегодняшний день. Добавьте в свой арсенал три самые популярные технологии:&nbsp;HTML, CSS и JavaScript и создавайте&nbsp;сайты и интерактивные веб-приложения, доступные на большинстве платформ.</p>\r\n"
+    },
+    {
+        "weight": "0.13",
+        "id": 21171,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 29 дней",
+        "name": "iOS-разработчик с нуля",
+        "url": "//netology.ru/programs/ios-developer",
+        "duration": "9 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "12 июля",
+        "date": "2021-07-12",
+        "program_image": "//netology.ru/program/ios-developer.png",
+        "color": "#FDDACB",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": "",
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 871,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 87900,
+        "current_price": 70740,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/871/Mask_Group-16-min.jpg"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": "<p>Вы узнаете, как создавать адаптивный интерфейс приложения и работать с анимацией, использовать многопоточность, обрабатывать данные из сети. Научитесь добавлять в приложения уведомления, геолокацию, карты, осуществлять аутентификацию пользователя при помощи логина и пароля или при помощи TouchID и FaceID. В процессе обучения вы напишете собственную социальную сеть.</p>\r\n"
+    },
+    {
+        "weight": "0.14",
+        "id": 20286,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 8 дней",
+        "name": "Fullstack-разработчик на JavaScript",
+        "url": "//netology.ru/programs/javascript-fullstack",
+        "duration": "19 месяцев",
+        "projects_amount": "10 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1978,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 149900,
+        "current_price": 89940,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1978/javascript-fullstack.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    },
+    {
+        "weight": "0.15",
+        "id": 20337,
+        "type": "profession",
+        "program_type": "profession",
+        "label": "Осталось 8 дней",
+        "name": "Bitrix-разработчик",
+        "url": "//netology.ru/programs/bitrix",
+        "duration": "9 месяцев",
+        "projects_amount": "0 занятий",
+        "experts_amount": "0 экспертов",
+        "starts_at": "21 июня",
+        "date": "2021-06-21",
+        "program_image": "",
+        "color": "#50b9e1",
+        "slider_description": "",
+        "url_to_replace": "",
+        "landing_url": null,
+        "tags": [],
+        "navigational_tag_ids": [],
+        "program_family_id": 1987,
+        "program_type_id": 3,
+        "program_type_alias": "profession",
+        "is_async": false,
+        "initial_price": 117900,
+        "current_price": 58950,
+        "program_family_image": {
+            "url": "https://u.netology.ngcdn.ru/backend/uploads/legacy/program_families/image/1987/bitrix.png"
+        },
+        "educational_level": {
+            "id": 1,
+            "name": "Нео",
+            "slug": "neo"
+        },
+        "starting_soon": false,
+        "main_direction": {
+            "slug": "development",
+            "name": "Программирование"
+        },
+        "directions": [{
+            "slug": "development",
+            "name": "Программирование"
+        }],
+        "partner_logo": "",
+        "price_type": "paid",
+        "description": ""
+    }
+
+]
