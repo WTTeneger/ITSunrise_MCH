@@ -241,7 +241,8 @@
         "partner_logo": "",
         "price_type": "paid",
         "description": ""
-    }, {
+    },
+    {
         "weight": "0.06",
         "id": 21351,
         "type": "profession",
@@ -711,5 +712,4 @@
         "price_type": "paid",
         "description": ""
     }
-
 ]
