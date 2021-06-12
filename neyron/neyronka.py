@@ -19,9 +19,7 @@ def findEl(find_el, Field, json):
     """    
 
     for el in json:
-        # print(el[Field, 2], el['weight'])
         if(str(Field) in el):
-            # print(el[Field, 2], "||", el[Field] , find_el, str(el[Field]) == str(find_el))
             if str(el[Field]) == str(find_el):
                 return(el)
                 break
@@ -39,7 +37,7 @@ warnings.filterwarnings("ignore") # отключаем warnings.
   человека по его росту, весу и возрасту.
   x1. x2. x3. x - ответ на вопрос N
 """
-# данные взяты из интернета.
+# данные
 inputs = np.array([
 [1, 1, 1, 2, 2, 2, 2, 2], # Тестеровщик по 0.01
 [1, 1, 2, 2, 1, 2, 1, 2], # Инженер по тестированию 0.02
@@ -75,19 +73,15 @@ print('Веса', q)
   Даём новые данные и скармливаем сетке:
 """
 new_inputs = np.array([1, 2, 1, 2, 1, 1, 1, 2]) # пустые данные
-result = model.prediction(new_inputs, q) # предсказание на основе новых данных.
+result = model.prediction(new_inputs, q) # предсказание на новые данные.
 
 print(result)
 
-
-# if( result["result_2"] <= 0.5 ): gender = "женский пол"
-# else: gender = "мужской пол"
 
 a = min(rs, key=lambda x: abs(result["result_1"]-x))
 
 tasks = ''
 with open('F:\\1py\\hackathon\\neyron\\only_dev.json', encoding='utf-8') as f:
-    # shutil.copyfileobj(file, sys.stdout)
     tasks = json.load(f)
 
 
