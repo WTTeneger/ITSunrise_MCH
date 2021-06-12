@@ -94,11 +94,35 @@ def get_circle_data():
     return mass_elem, 200
 
 
+@application.route('/api/0.1/get_questions', methods=["POST"])
+def get_questions():
+    response_data = request.data.decode()
+    print("data", response_data)
+    response_data = json.loads(response_data)
+    # if not "id" in response_data:
+    #     abort(400)
+    questions_info = DB.GET(
+        f"""SELECT * FROM `questions` WHERE `profession` = '{response_data["profession"]}'""")
+    req_data = []
+    for i in questions_info:
+        print(i)
+        g = {
+            "id": i[0],
+            "profession": i[1],
+            "question": i[2],
+            "answer_1": i[3],
+            "answer_2": i[4]}
+        req_data.append(g)
+    mass_elem = {"elements": req_data}
+    return mass_elem, 200
+
+
 # "95.172.70.131"
 @application.errorhandler(400)
 def error_400(e):
     return "Bad request", 400
 
 
+# http://deadbf914c1c.ngrok.io
 if __name__ == "__main__":
-    application.run(debug=True, host="0.0.0.0", port=4567)
+    application.run(debug=True,  port=4567)  # host="0.0.0.0",
