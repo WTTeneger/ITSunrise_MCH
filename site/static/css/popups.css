@@ -1,0 +1,132 @@
+    .ftext {
+        font-weight: bold;
+        font-family: 'Alfa Slab One', cursive;
+        font-style: normal;
+        font-weight: bold;
+    }
+    
+    .bg_popup {
+        z-index: 1000;
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        background-color: rgb(98 98 98 / 83%);
+    }
+    
+    .popup_former {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .popup_block {
+        position: absolute;
+        top: 10%;
+        width: 25%;
+        /* height: 50%;
+         */
+        height: max-content;
+        left: 37.5%;
+        background: #FFFFFF;
+        box-shadow: inset 9px 4px 62px rgba(0, 0, 0, 0.56);
+        border-radius: 30px;
+    }
+    /* Хеадер */
+    
+    .header_popup {
+        display: flex;
+        width: 100%;
+        height: 15%;
+        margin-bottom: 10%;
+    }
+    
+    .popup_header_text {
+        padding: 4%;
+        font-size: 400%;
+        font-size: 70px;
+        line-height: 70px;
+        /* identical to box height */
+        text-align: center;
+        color: #3B3B3B;
+    }
+    
+    .popup_photo {
+        width: 100%;
+        height: 100%;
+        background-color: #7E50CE;
+    }
+    /* Content */
+    
+    .content_popup {
+        margin: 0 4%;
+    }
+    
+    .popup_content_text {
+        padding: 4%;
+        font-size: 400%;
+        font-size: 70px;
+        line-height: 80px;
+        /* identical to box height */
+        text-align: left;
+        color: #3B3B3B;
+    }
+    /* timing */
+    
+    .timing_popup {
+        align-items: center;
+        display: flex;
+        margin: 0 4%;
+    }
+    
+    .popup_timing_text {
+        padding: 0%;
+        font-size: 400%;
+        font-size: 70px;
+        line-height: 80px;
+        /* identical to box height */
+        text-align: left;
+        color: #3B3B3B;
+        /* color: #7E50CE */
+    }
+    /* button */
+    
+    .popup_buttons {
+        /* position: absolute; */
+        bottom: 0%;
+        height: max-content;
+        margin-top: 21%;
+        left: 25% line-height: 78px;
+        ;
+        width: 50%;
+        margin: 8% auto;
+    }
+    
+    .popup_button {
+        color: aliceblue;
+        background: #7E50CE;
+        border: 1px solid #7E50CE;
+        box-sizing: border-box;
+        border-radius: 70px;
+        height: 200px;
+    }
+    
+    .popup_text_in_button {
+        font-style: normal;
+        font-weight: 500;
+        font-size: 70px;
+        /* identical to box height, or 67% */
+        text-align: center;
+        letter-spacing: -0.02em;
+    }
+    
+    h1 {
+        cursor: default;
+    }
+    
+    .popup_text_in_button:hover {
+        color: #3B3B3B;
+    }
+    
+    .popup_button .popup_text_in_button:hover {
+        color: #a286d1;
+    }

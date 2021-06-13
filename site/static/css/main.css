@@ -23,9 +23,14 @@ body {
     fill: rgb(132, 167, 236);
 }
 
+.g {
+    cursor: pointer;
+}
+
 g:hover rect {
     /* transform: scale(1.5); */
-    fill: rgb(148, 176, 231);
+    transition: 0.1s;
+    fill: rgb(91, 93, 238);
 }
 
 
@@ -44,13 +49,6 @@ g:hover rect {
     height: 75vh;
     position: fixed;
     top: 15vh;
-}
-
-.test_block {
-    background: #3c4949ad;
-    width: 70%;
-    margin: 0 auto;
-    height: 100%;
 }
 
 .test {
