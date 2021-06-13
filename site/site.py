@@ -135,25 +135,26 @@ def get_progress_user():
     response_data = request.data.decode()
     print("data", response_data)
     response_data = json.loads(response_data)
-    if not response_data["append"] == "":
-        # abort(400)
-        get_progress_info = DB.GET(
-            f"""SELECT * FROM `progress_user` WHERE `id` = '{response_data["id"]}'""")
-        print(get_progress_info)
-        req_data = []
-        for i in get_progress_info:
-            print(i)
-            g = {
-                "id_user": i[1],
-                "id_circle": i[2],
-                "type": i[3]}
-            req_data.append(g)
-        mass_elem = {"elements": req_data}
-        return mass_elem, 200
+    get_progress_info = DB.GET(
+        f"""SELECT * FROM `progress_user` WHERE `id` = '{response_data["id"]}'""")
+    # print(get_progress_info)
+    req_data = []
+    i = get_progress_info[0]
+    # print(i)
+    g = {
+        "id_user": i[1],
+        "id_circle": i[2]
+    }
+    if response_data["append"] == "":
+        g["type"] = i[3]
     else:
+        print("asd")
         post_progress_info = DB.POST(
-            f"""UPDATE `progress_user` SET `id_circle`= {response_data["append"]} WHERE `id` = '{response_data["id"]}'""")
-        print(post_progress_info)
+            f"""UPDATE `progress_user` SET `type`= '{response_data["append"]}' WHERE `id` = '{response_data["id"]}'""")
+        g["type"] = response_data["append"]
+
+    mass_elem = {"elements": g}
+    return mass_elem, 200
 
 
 @application.route('/api/0.1/questions_and_img', methods=["POST"])
