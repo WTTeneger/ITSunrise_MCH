@@ -6,17 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../static/css/main.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="../static/css/test.css" media="screen" type="text/css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/css/font-awesome-4.7.0/css/font-awesome.min.css">
 
     <title>Document</title>
 </head>
 
 <body style="overflow: hidden;">
     <script src="../static/js/jquery.js"></script>
-    <script src="../static/js/jquery.touchSwipe.min.js"></script>
-    <script src="../static/js/clickerPointer.js"></script>
-    <script src="../static/js/swipers.js"></script>
-    <div class="svg_div">
+    <!-- <script src="../static/js/jquery.touchSwipe.min.js"></script> -->
+    <!-- <script src="../static/js/clickerPointer.js"></script> -->
+    <script src="../static/js/sender.js"></script>
 
+    <!-- <script src="../static/js/swipers.js"></script> -->
+    <div class="svg_div">
         <svg class="svg_div" id="Background" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3556" height="2000" viewBox="0 0 3556 2000">
             <defs>
               <style>
@@ -74,16 +79,16 @@
     </div>
     <div class="main_test_block">
 
-        <div class="test_block">
-            <div class="test" id='test_block'>
-                <div class="test_text_box">
-                    <h1 class="text_b unselectable">
-                        Создавать удобный и комфортный дизайн для пользователя Выберите одно из двух утверждений, которое вам ближе:
-                    </h1>
-                </div>
+        <div class="test_block ftext">
+            <div class="answer" id='answer_1'>
+                <h1 id='answer_1' class="unselectable">Мне удобнее работать по заказам, я сам себе хозяин</h1>
+            </div>
+            <div class="answer" id='answer_0'>
+                <h1 id='answer_0' class="unselectable">Не против работать под начальством</h1>
             </div>
         </div>
     </div>
+    <script src="../static/js/test_.js"></script>
 </body>
 
 </html>

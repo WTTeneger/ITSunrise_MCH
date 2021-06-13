@@ -1,0 +1,34 @@
+.svg_div {
+    font-weight: bold;
+    font-family: 'Alfa Slab One', cursive;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.test_block {
+    background: #3c4949ad;
+    width: 75%;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    column-gap: 1px;
+}
+
+.answer {
+    height: 100%;
+    width: 50%;
+    background-color: aqua;
+    position: relative;
+    text-align: center;
+}
+
+.answer h1 {
+    padding: 3%;
+    width: 94%;
+    margin: 0;
+    position: absolute;
+    /* 2 */
+    top: 50%;
+    /* 3 */
+    transform: translate(0, -50%)
+}

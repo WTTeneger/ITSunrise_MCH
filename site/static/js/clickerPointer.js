@@ -5,14 +5,14 @@ var slov = {
     }
 }
 document.addEventListener('click', function() {
-    // //console.log('sslov', slov);
-    // //console.log(this, arguments);
+    console.log('sslov', '');
+    console.log(this, arguments);
     cid = arguments[0]['path'][0];
     //console.log(arguments[0]);
-    //console.log(cid)
+
+
     if (cid.id) {
         console.log(cid.id);
-
         // Основное меню
         if (cid.id == 'Instagram') {
             console.log('Представь что у тебя есть соц жизнь');
@@ -32,6 +32,10 @@ document.addEventListener('click', function() {
         // Выбор профессий
         if (cid.id == 'Программирование') {
             console.log('перейти к тесту');
+        }
+
+        if (cid.id.indexOf("answer_") >= 0) {
+            console.log('вариант ответа');
         }
 
 
