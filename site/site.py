@@ -53,6 +53,15 @@ def index():
     return render_template("index.html")
 
 
+@application.route('/api/0.1/neyrondata', methods=["POST"])
+def neyrondata():
+    response_data = request.data.decode()
+    print("data", response_data)
+    response_data = json.loads(response_data)
+    print()
+    return response_data, 200
+
+
 @application.route('/api/0.1/get_prof', methods=["POST"])
 def get_prof():
     # response_data = request.data.decode()
