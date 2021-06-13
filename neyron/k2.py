@@ -1,55 +1,38 @@
-import keras
-
-from keras.models import Sequential
-
-from keras.layers import Dense, Dropout, Activation
-
-from keras.optimizers import SGD
-
-# Генерируем случайные данные
-
 import numpy as np
-
-x_train = np.random.random((1000, 20))
-
-y_train = keras.utils.to_categorical(
-np.random.randint(10, size=(1000, 1)), num_classes=10)
-
-x_test = np.random.random((100, 20))
-
-y_test = keras.utils.to_categorical(
-np.random.randint(10, size=(100, 1)), num_classes=10)
-
-model = Sequential()
-
-# Dense(64) — это полносвязный слой с 64 скрытыми нейронами.
-
-# в первом слое вы должны указать размерность входных данных:
-
-# здесь, это векторы длинной 20.
-
-model.add(Dense(64, activation=’relu’, input_dim=20))
-
-model.add(Dropout(0.5))
-
-model.add(Dense(64, activation=’relu’))
-
-model.add(Dropout(0.5))
-
-model.add(Dense(10, activation=’softmax’))
-
-sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
-
-model.compile(loss=’categorical_crossentropy’,
-
-              optimizer=sgd,
-
-              metrics=[‘accuracy’])
-
-model.fit(x_train, y_train,
-
-          epochs=20,
-
-          batch_size=128)
-
-score = model.evaluate(x_test, y_test, batch_size=128)
+ 
+ 
+def sigmoid(x):
+    return 1 / (1 + np.exp(-x))
+ 
+ 
+training_inputs = np.array([[1, 1, 0],
+                            [1, 0, 0],
+                            [0, 1, 0],
+                            [0, 1, 1]])
+ 
+training_outputs = np.array([[0.00, 0.01, 0.02, 0.03]]).T
+ 
+np.random.seed(1)
+ 
+synaptic_weights = 2 * np.random.random((3, 1)) - 1
+print("Случайные веса: ")
+print(synaptic_weights)
+ 
+# Метод обратного распространени
+for i in range(70000):
+    input_layer = training_inputs
+ 
+    outputs = sigmoid(np.dot(input_layer, synaptic_weights))
+    if i == 1:
+        print(outputs)
+    err = training_outputs - outputs
+ 
+    adjustments = np.dot(input_layer.T, err * (outputs * (1 - outputs)))
+    synaptic_weights += adjustments
+ 
+print("Веса после обучения: ")
+print(synaptic_weights)
+ 
+print("Результат после обучения: ")
+for out in outputs:
+    print(float(out), round(float(out) * 100))
