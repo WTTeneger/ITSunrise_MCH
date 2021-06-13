@@ -82,7 +82,7 @@ result = model.prediction(new_inputs, q)  # предсказание на нов
 
 print(result)
 
-new_inputs = np.array([0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1])  # пустые данные
+new_inputs = np.array([0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1])  # пустые данные
 result = model.prediction(new_inputs, q)  # предсказание на новые данные.
 
 print(result)
