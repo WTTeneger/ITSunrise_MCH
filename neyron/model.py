@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#-*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 """
   Импортируем numpy для математических вычислений.
@@ -14,22 +14,27 @@ import numpy as np
   В данном случае возведена в квадрат от -x.
   Если derivative равна True, то возвращает производную от функции.
 """
-def sigmoid(x, derivative = False):
-    if( derivative == True ):
-        return sigmoid(x) * (1 - sigmoid(x)) # производная.
+
+
+def sigmoid(x, derivative=False):
+    if(derivative == True):
+        return sigmoid(x) * (1 - sigmoid(x))  # производная.
     return 1 / (1 + np.exp(-x))
 
 
 """
   Класс одного нейрона:
 """
-class Neuron(object): # object необязательно писать.
+
+
+class Neuron(object):  # object необязательно писать.
     """
       Конструктор принимает в себя массив входных
       данных (inputs: x1, x2, ...) и bias - отклонение,
       по умолчанию = 0.
     """
-    def __init__(self, inputs = None, bias = 0):
+
+    def __init__(self, inputs=None, bias=0):
         self.inputs = inputs
         self.bias = bias
 
@@ -37,6 +42,7 @@ class Neuron(object): # object необязательно писать.
       Метод feedforward() - прямое распространение.
       Принимает в себя массив весов (weights: w1, w2, ...).
     """
+
     def feedforward(self, weights):
         """
           np.dot() - скалярное произведение. Вычисляется
@@ -61,15 +67,18 @@ class Neuron(object): # object необязательно писать.
 """
   Сам класс перцептрона:
 """
+
+
 class Perceptron(object):
-    def __init__(self, inputs = None, bias = 0):
+    def __init__(self, inputs=None, bias=0):
         """
           Инициализация одного нейрона и весов. Размерность массива весов
           одинакова с входными данными. Средний вес равен нулю.
         """
         self.x1 = Neuron(inputs, bias)
         self.inputs = inputs
-        if( inputs is not None ): # если входные данные заданы, то инициализируются веса.
+        # если входные данные заданы, то инициализируются веса.
+        if(inputs is not None):
             self.weights = 2 * np.random.random([len(inputs[0]), 1]) - 1
 
     """
@@ -78,6 +87,7 @@ class Perceptron(object):
       np.mean() - вычисляет среднее арифметическое.
       x - предполагаемые данные. y - правильные данные.
     """
+
     def mse(self, x, y):
         return np.mean((x - y) ** 2)
 
@@ -88,7 +98,8 @@ class Perceptron(object):
       learning_rate - скорость обучения сети, по умолчанию не задана.
       mse_print - по умолчанию выводит оценку обучения сети.
     """
-    def training(self, correct_results, epochs = 1000, learning_rate = None, mse_print = True):
+
+    def training(self, correct_results, epochs=1000, learning_rate=None, mse_print=True):
         # Обучить сеть - это подобрать оптимальные веса.
         for epoch in range(epochs):
             """
@@ -100,22 +111,29 @@ class Perceptron(object):
             output = self.x1.feedforward(self.weights)
             error = correct_results - output
             delta = error * sigmoid(output, True)
-            if( learning_rate ): delta *= learning_rate
-            self.weights += np.dot(self.inputs.T, delta) # обновление весов.
-            mse_value = self.mse(sigmoid(np.dot(self.inputs, self.weights)), correct_results) # оценка обучения.
-            if( mse_print == True and epoch % 10 == 0 ): print("Эпоха:", str(epoch) + ", ошибка:", mse_value)
+            if(learning_rate):
+                delta *= learning_rate
+            self.weights += np.dot(self.inputs.T, delta)  # обновление весов.
+            # оценка обучения.
+            mse_value = self.mse(
+                sigmoid(np.dot(self.inputs, self.weights)), correct_results)
+            if(mse_print == True and epoch % 10 == 0):
+                print("Эпоха:", str(epoch) + ", ошибка:", mse_value)
         return self.weights
 
     """
       Метод предсказания модели (возвращает словарь):
     """
-    def prediction(self, inputs, weights = None):
-        if( weights is None ): weights = self.weights # если веса не заданы, то используются веса модели.
-        prediction_1 = sigmoid(np.dot(inputs, weights)) # десятичный ответ.
-        prediction_2 = round(float(prediction_1)) # округленный ответ.
+
+    def prediction(self, inputs, weights=None):
+        if(weights is None):
+            # если веса не заданы, то используются веса модели.
+            weights = self.weights
+        prediction_1 = sigmoid(np.dot(inputs, weights))  # десятичный ответ.
+        prediction_2 = round(float(prediction_1))  # округленный ответ.
         return {
-          "inputs" : str(list(inputs)).replace("[", "").replace("]", ""),
-          "weights" : str(weights).replace("[[", "[").replace("]]", "]"),
-          "result_1" : prediction_1[0],
-          "result_2" : prediction_2
+            "inputs": str(list(inputs)).replace("[", "").replace("]", ""),
+            "weights": str(weights).replace("[[", "[").replace("]]", "]"),
+            "result_1": prediction_1[0],
+            "result_2": prediction_2
         }
