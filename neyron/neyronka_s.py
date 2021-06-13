@@ -65,7 +65,18 @@ results = np.array([  # правильные результаты.
     rs
 ]).T
 
-
+vesa = np.array([[0.47976256],
+                 [0.70423372],
+                 [-1.30172645],
+                 [-0.02050289],
+                 [-1.35467076],
+                 [-0.70161169],
+                 [-1.69573823],
+                 [-0.95488836],
+                 [0.37845042],
+                 [0.89932216],
+                 [-0.35597642],
+                 [-0.38156205]])
 """
 [[ 0.47976256]
  [ 0.70423372]
@@ -84,21 +95,21 @@ results = np.array([  # правильные результаты.
   сеть даёт неправильный результат, хотя можно обучить.
 """
 
-model = Perceptron(inputs)  # создаем экземпляр класса.
-q = model.training(results, 10000000, mse_print=False)  # тренируем модель.
-print('Веса', q)
+model = Perceptron()  # создаем экземпляр класса.
+# q = model.training(results, 10000000, mse_print=False)  # тренируем модель.
+# print('Веса', q)
 """
   Даём новые данные и скармливаем сетке:
 """
 
 #1, 0, 1, 0, 1, 1, 1, 2 [0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1]
-new_inputs = np.array([1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1])  # пустые данные
-result = model.prediction(new_inputs, q)  # предсказание на новые данные.
+# new_inputs = np.array([1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1])  # пустые данные
+# result = model.prediction(new_inputs, vesa)  # предсказание на новые данные.
 
-print(result)
+# print(result)
 
-new_inputs = np.array([0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0])  # пустые данные
-result = model.prediction(new_inputs, q)  # предсказание на новые данные.
+new_inputs = np.array([0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1])  # пустые данные
+result = model.prediction(new_inputs, vesa)  # предсказание на новые данные.
 
 print(result)
 
