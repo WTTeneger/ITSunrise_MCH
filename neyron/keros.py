@@ -22,7 +22,12 @@ x_train = np.array([
 # 0.1- первая, 0.2 - вторая и тд.
 # .T - транспонирует массив (матрицу).
 
-y_train =  np.array([1, 2, 3, 3])
+y_train =  np.array([
+    [1, 0, 0, 0],
+    [0, 1, 0, 0],
+    [0, 0, 1, 0],
+    [0, 0, 0, 1],
+    ])
 # y_train =  np.array([0.1, 0.2, 0.3, 0.3])
 
 
@@ -30,8 +35,7 @@ y_train =  np.array([1, 2, 3, 3])
 
 model = Sequential()
 model.add(Dense(8, input_dim=8, activation='relu'))
-model.add(Dense(8, activation='relu'))
-model.add(Dense(1, activation='relu'))
+model.add(Dense(4, activation='sigmoid'))
 
 # model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy'])
