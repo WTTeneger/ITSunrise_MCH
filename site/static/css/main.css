@@ -44,7 +44,7 @@ g:hover rect {
 /* тест */
 
 .main_test_block {
-    background: #52a1a1ad;
+    /* background: #52a1a1ad; */
     width: 100%;
     height: 75vh;
     position: fixed;

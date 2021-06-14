@@ -1,6 +1,7 @@
-m_url = 'https://8c0113a51fee.ngrok.io/'
 async function sender(url, data, method = 'post') {
+    var m_url = 'http://4f229beb5bab.ngrok.io'
 
+    url = m_url + url
     var myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
 
@@ -17,7 +18,7 @@ async function sender(url, data, method = 'post') {
     if (response.ok) { // если HTTP-статус в диапазоне 200-299
         // получаем тело ответа (см. про этот метод ниже)
         json = await response.json();
-        console.log(json);
+        // console.log(json);
         return (json)
 
     } else {

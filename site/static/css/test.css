@@ -16,13 +16,16 @@
 
 .answer {
     height: 100%;
+    background-position-x: center;
+    background-size: 240%;
     width: 50%;
-    background-color: aqua;
+    background-color: rgba(34, 34, 34, 0.452);
     position: relative;
     text-align: center;
 }
 
 .answer h1 {
+    background: #a2b2c154;
     padding: 3%;
     width: 94%;
     margin: 0;
@@ -31,4 +34,11 @@
     top: 50%;
     /* 3 */
     transform: translate(0, -50%)
+}
+
+.ftext {
+    font-weight: bold;
+    font-family: 'Alfa Slab One', cursive;
+    font-style: normal;
+    font-weight: bold;
 }

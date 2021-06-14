@@ -10,11 +10,19 @@ training_inputs = np.array([[1, 1, 0],
                             [0, 1, 0],
                             [0, 1, 1]])
  
-training_outputs = np.array([[0.00, 0.01, 0.02, 0.03]]).T
+training_outputs = np.array([[0.00, 0.01, 0.02, 0.03, 0.05]]).T
+
+
+
+
+
+
+
+
  
 np.random.seed(1)
  
-synaptic_weights = 2 * np.random.random((3, 1)) - 1
+synaptic_weights = 2 * np.random.random((12, 3)) - 1
 print("Случайные веса: ")
 print(synaptic_weights)
  
@@ -35,4 +43,5 @@ print(synaptic_weights)
  
 print("Результат после обучения: ")
 for out in outputs:
-    print(float(out), round(float(out) * 100))
+    print(out)
+    # print(float(out), round(float(out) * 100))

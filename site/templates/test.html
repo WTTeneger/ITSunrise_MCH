@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../static/css/main.css" media="screen" type="text/css" />
     <link rel="stylesheet" href="../static/css/test.css" media="screen" type="text/css" />
+    <link rel="stylesheet" href="../static/css/popups.css" media="screen" type="text/css" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../static/css/font-awesome-4.7.0/css/font-awesome.min.css">
@@ -77,7 +78,7 @@
 
 
     </div>
-    <div class="main_test_block">
+    <div class="main_test_block" style="display: block" ;>
 
         <div class="test_block ftext">
             <div class="answer" id='answer_1'>
@@ -87,6 +88,13 @@
                 <h1 id='answer_0' class="unselectable">Не против работать под начальством</h1>
             </div>
         </div>
+    </div>
+    <div class="main_test_block" style="top: 22vh; display: none;">
+        <h1 class="ftext unselectable" id='prof_recom' style="text-align: center;   color: aliceblue; font-size: -webkit-xxx-large;">Мне удобнее работать по заказам, я сам себе хозяин</h1>
+        <div id='go_circl' class="popup_button" style="cursor: pointer; margin: 0 auto; width: 50%;   height: 13%;   margin-top: 10%;">
+            <h1 id='go_circl' class="ftext popup_text_in_button" style="cursor: pointer; font-size: xxx-large;">Учиться в нетологии</h1>
+        </div>
+
     </div>
     <script src="../static/js/test_.js"></script>
 </body>

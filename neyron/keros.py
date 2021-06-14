@@ -10,10 +10,10 @@ import numpy as np # для массивов.
 
 
 x_train = np.array([
-[1, 1, 1, 2, 2, 2, 2, 2], # Тестеровщик по 0.01
-[1, 1, 2, 2, 1, 2, 1, 2], # Инженер по тестированию 0.02
-[1, 1, 2, 2, 1, 2, 2, 2], # java  0.03
-[1, 1, 2, 1, 1, 1, 2, 2], # java  0.04
+[1, 1, 1, 0, 0, 0, 0, 0], # Тестеровщик по 0.01
+[1, 1, 0, 0, 1, 0, 1, 0], # Инженер по тестированию 0.02
+[1, 1, 0, 0, 1, 0, 0, 0], # java  0.03
+[1, 1, 0, 1, 1, 1, 0, 0], # java  0.04
 ]) # можно бесконечно много дополнять.
 
 
@@ -40,11 +40,11 @@ model.add(Dense(4, activation='sigmoid'))
 # model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
 model.compile(loss='categorical_crossentropy', optimizer='sgd', metrics=['accuracy'])
 # history = model.fit(x_train, y_train, epochs=5, batch_size=32)
-h = model.fit(x_train, y_train, epochs=500, batch_size=10)
+h = model.fit(x_train, y_train, epochs=50, batch_size=10)
 # print(h.history)
 # loss_and_metrics = model.evaluate(x_test, y_test, batch_size=128)
 # print(loss_and_metrics)
-
+print(h)
 
 scores = model.evaluate(x_train, y_train)
 print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
