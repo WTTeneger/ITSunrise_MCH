@@ -43,7 +43,7 @@ function project_popup(el_id = 0) {
 
         for (ell of data['url_url']) {
             el = `
-            <h1 id='popup_content' class="ftext popup_content_text" style="cursor:pointer; text-align: center;" url_page=${ell['url']}>
+            <h1 id='popup_content__' class="ftext popup_content_text" style="cursor:pointer; text-align: center;" url_page=${ell['url']}>
                 ${ell['url_name']}
             </h1>
             `
@@ -112,7 +112,7 @@ document.addEventListener('click', function() {
             document.getElementsByClassName('popup_block')[1].style.display = 'block'
         }
 
-        if (cid.id == 'popup_content') {
+        if (cid.id == 'popup_content__') {
             window.open(cid.getAttribute('url_page'), '_blank');
         }
 
