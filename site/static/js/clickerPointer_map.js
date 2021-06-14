@@ -9,7 +9,7 @@ var slov = {
 
 function project_popup(el_id = 0) {
     console.log('project_popup', el_id);
-    m_url = 'http://0fc770bdc6b1.ngrok.io/api/0.1/get_circle_data'
+    m_url = '/api/0.1/get_circle_data'
     data = {
             "id": el_id,
             'proff': ''
