@@ -1,5 +1,5 @@
 async function sender(url, data, method = 'post') {
-    var m_url = 'http://4f229beb5bab.ngrok.io'
+    var m_url = location.hostname
 
     url = m_url + url
     var myHeaders = new Headers();
