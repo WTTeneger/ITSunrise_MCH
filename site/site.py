@@ -57,13 +57,31 @@ class DB():
 @application.route('/')
 def index():
     # Вывод страницы
-    return render_template("index.html")
+    return render_template("index_.html")
 
 
-@application.route('/')
-def inde1x():
+@application.route('/auth')
+def auth():
     # Вывод страницы
-    return render_template("index.html")
+    return render_template("auth.html")
+
+
+@application.route('/track')
+def track():
+    # Вывод страницы
+    return render_template("track.html")
+
+
+@application.route('/test')
+def test():
+    # Вывод страницы
+    return render_template("test.html")
+
+
+@application.route('/cr')
+def cr():
+    # Вывод страницы
+    return render_template("cr.html")
 
 
 @application.route('/api/0.1/neyrondata', methods=["POST"])
