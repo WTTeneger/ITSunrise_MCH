@@ -120,7 +120,7 @@ def get_data(x):
     a = "{0:.2f}".format(a)
     print('a', a)
     tasks = ''
-    with open('hackathon\\ITSunrise_MCH\\neyron\\only_dev.json', encoding='utf-8') as f:
+    with open('neyron\only_dev.json', encoding='utf-8') as f:
         tasks = json.load(f)
 
     task = findEl(a, 'weight', tasks)

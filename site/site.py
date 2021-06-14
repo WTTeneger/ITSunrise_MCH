@@ -300,4 +300,4 @@ def error_400(e):
 
 # http://deadbf914c1c.ngrok.io
 if __name__ == "__main__":
-    application.run(debug=True, host="0.0.0.0", port=4567)  #
+    application.run(debug=True)  #

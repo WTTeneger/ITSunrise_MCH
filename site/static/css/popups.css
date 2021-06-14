@@ -42,9 +42,9 @@
     
     .popup_header_text {
         padding: 4%;
-        font-size: 400%;
-        font-size: 70px;
-        line-height: 60px;
+        /* font-size: 400%; */
+        font-size: 20px;
+        line-height: 20px;
         /* identical to box height */
         text-align: center;
         color: #3B3B3B;
@@ -63,9 +63,8 @@
     
     .popup_content_text {
         padding: 4%;
-        font-size: 400%;
-        font-size: 70px;
-        line-height: 80px;
+        font-size: 20px;
+        line-height: 20px;
         /* identical to box height */
         text-align: left;
         color: #3B3B3B;
@@ -80,9 +79,8 @@
     
     .popup_timing_text {
         padding: 0%;
-        font-size: 400%;
-        font-size: 70px;
-        line-height: 80px;
+        font-size: 15px;
+        line-height: 51px;
         /* identical to box height */
         text-align: left;
         color: #3B3B3B;
@@ -95,9 +93,9 @@
         bottom: 0%;
         height: max-content;
         margin-top: 21%;
-        left: 25% line-height: 78px;
-        ;
-        width: 50%;
+        left: 25%;
+        line-height: 78px;
+        width: 70%;
         margin: 8% auto;
     }
     
@@ -107,13 +105,13 @@
         border: 1px solid #7E50CE;
         box-sizing: border-box;
         border-radius: 70px;
-        height: 200px;
+        /* height: 200px; */
     }
     
     .popup_text_in_button {
         font-style: normal;
         font-weight: 500;
-        font-size: 70px;
+        font-size: 25px;
         /* identical to box height, or 67% */
         text-align: center;
         letter-spacing: -0.02em;
@@ -135,13 +133,11 @@
         position: fixed;
         right: 0;
         background-color: #a286d1;
-        width: 1000px;
-        height: 1000px;
+        width: 20%;
+        height: 30%;
         position: fixed;
         right: 0;
         background-color: #3a3a3a;
-        width: 1000px;
-        height: 1000px;
-        border-radius: 0 0 0 200px;
+        border-radius: 0 0 0 63px;
         z-index: 2000;
     }
