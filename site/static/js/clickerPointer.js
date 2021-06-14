@@ -26,12 +26,18 @@ document.addEventListener('click', function() {
 
         if (cid.id == 'Продолжить') {
             console.log('перейти к выбору специальности');
+            document.location.href = "auth";
+        }
+
+        if (cid.id == 'nex_p_a') {
+            console.log('перейти к выбору специальности');
+            document.location.href = "track";
         }
 
 
         // Выбор профессий
         if (cid.id == 'Программирование') {
-            console.log('перейти к тесту');
+            document.location.href = "test";
         }
 
         if (cid.id.indexOf("answer_") >= 0) {

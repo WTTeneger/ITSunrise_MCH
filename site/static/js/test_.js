@@ -43,7 +43,7 @@ sender(m_url, data_send).then(data_q => {
             }
 
             if (cid.id == 'go_circl') {
-                document.location.href = "circle";
+                document.location.href = "cr";
             }
         }
     })

@@ -132,6 +132,16 @@
     }
     
     .stats_ {
-        position: relative;
+        position: fixed;
+        right: 0;
         background-color: #a286d1;
+        width: 1000px;
+        height: 1000px;
+        position: fixed;
+        right: 0;
+        background-color: #3a3a3a;
+        width: 1000px;
+        height: 1000px;
+        border-radius: 0 0 0 200px;
+        z-index: 2000;
     }
