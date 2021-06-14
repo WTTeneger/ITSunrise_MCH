@@ -130,3 +130,8 @@
     .popup_button .popup_text_in_button:hover {
         color: #a286d1;
     }
+    
+    .stats_ {
+        position: relative;
+        background-color: #a286d1;
+    }
