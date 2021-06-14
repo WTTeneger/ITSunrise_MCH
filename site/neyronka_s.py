@@ -96,7 +96,8 @@ vesa = np.array([[0.47976256],
 """
 
 model = Perceptron()  # создаем экземпляр класса.
-# q = model.training(results, 10000000, mse_print=False)  # тренируем модель.
+# # тренируем модель.
+# q = model.training(results, 1000000, mse_print=True, learning_rate=0.00001)
 # print('Веса', q)
 """
   Даём новые данные и скармливаем сетке:
@@ -108,21 +109,26 @@ model = Perceptron()  # создаем экземпляр класса.
 
 # print(result)
 
-new_inputs = np.array([0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1])  # пустые данные
-result = model.prediction(new_inputs, vesa)  # предсказание на новые данные.
 
-print(result)
+def get_data(x):
+    new_inputs = np.array(x)  # пустые данные
+    # предсказание на новые данные.
+    result = model.prediction(new_inputs, vesa)
+    print(result)
 
-a = min(rs, key=lambda x: abs(result["result_1"]-x))
-print('a', a)
-tasks = ''
-# with open('hackathon\\ITSunrise_MCH\\neyron\\only_dev.json', encoding='utf-8') as f:
-#     tasks = json.load(f)
+    a = min(rs, key=lambda x: abs(result["result_1"]+0.005-x))
+    a = "{0:.2f}".format(a)
+    print('a', a)
+    tasks = ''
+    with open('hackathon\\ITSunrise_MCH\\neyron\\only_dev.json', encoding='utf-8') as f:
+        tasks = json.load(f)
+
+    task = findEl(a, 'weight', tasks)
+
+    print("\nНовые данные:", result["inputs"])
+    print("Ответ модели:", a, "\n")
+    print("Данные на какую профессию:", task['name'], "\n")
+    return task['name']
 
 
-# task = findEl(a, 'weight', tasks)
-
-
-print("\nНовые данные:", result["inputs"])
-print("Ответ модели:", a, "\n")
-# print("Данные на какую профессию:", task['name'], "\n")
+# get_data([0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1])

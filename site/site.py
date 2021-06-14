@@ -1,15 +1,22 @@
-from flask import Flask, render_template, request, session, Response, make_response, redirect, jsonify, abort
-from flask.helpers import url_for
-from flask_cors import CORS
-import datetime
-import uuid
-import hashlib
-import pymysql
-import time
-import os
-import threading
-import random
 import json
+import random
+import threading
+import os
+import time
+import pymysql
+import hashlib
+import uuid
+import datetime
+from flask_cors import CORS
+from flask.helpers import url_for
+from flask import Flask, render_template, request, session, Response, make_response, redirect, jsonify, abort
+import sys
+# sys.path.insert(0, "../neyron")
+# print(sys.path)
+import neyronka_s
+
+# import neyronka_s
+
 application = Flask(__name__)
 
 code_API = []
@@ -53,12 +60,20 @@ def index():
     return render_template("index.html")
 
 
+@application.route('/')
+def inde1x():
+    # Вывод страницы
+    return render_template("index.html")
+
+
 @application.route('/api/0.1/neyrondata', methods=["POST"])
 def neyrondata():
     response_data = request.data.decode()
     print("data", response_data)
     response_data = json.loads(response_data)
-    print()
+    # print()
+    # [1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+    response_data = {"word": neyronka_s.get_data(response_data["neyron"])}
     return response_data, 200
 
 
