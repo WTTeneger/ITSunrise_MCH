@@ -60,6 +60,12 @@ def index():
     return render_template("index.html")
 
 
+@application.route('/')
+def inde1x():
+    # Вывод страницы
+    return render_template("index.html")
+
+
 @application.route('/api/0.1/neyrondata', methods=["POST"])
 def neyrondata():
     response_data = request.data.decode()
