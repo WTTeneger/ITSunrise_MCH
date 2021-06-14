@@ -1,7 +1,7 @@
 async function sender(url, data, method = 'post') {
-    var m_url = location.hostname
+    // var m_url = location.hostname
 
-    url = m_url + url
+    // url = m_url + url
     var myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
 
